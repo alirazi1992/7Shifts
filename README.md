@@ -17,3 +17,24 @@
   6.  Mobile App: Many workforce management systems, including 7shifts, offer mobile apps for both managers and employees. This allows for easier access to schedules, communication, and time tracking on the go.
     
   7.  Reporting: The software typically generates reports on various aspects of workforce management, providing insights into labor costs, employee performance, and scheduling efficiency.
+
+
+# Introduction 
+
+  - Company
+The primary account of a customer. A company is a grouping of locations. It houses users, locations, and top-level settings that configure an account.
+  - Location
+The physical brick & mortar of a restaurant.
+  - Department
+These are sections of a restaurant.
+Examples: Back of House, Front of House, Kitchen, Drive-through
+  - Role
+A role describes what job an employee is working that day.
+Examples: Server, Prep Cook, etc.
+  - User
+Users (aka. Employee) is typically assigned to one or many locations, departments, and roles, and shows up for their scheduled shifts, and clocks in / out accordingly.
+  - Shift
+A user is scheduled to work a role at a location, likely in a department, at a specific time. This is their shift.
+  - Time Punch
+Time punches represent clock actions, including breaks, attestation, health checks, and various other jurisdictional compliance data.
+A user clocks in and out of their scheduled shift.
