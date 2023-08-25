@@ -64,7 +64,6 @@ We analyze the distribution of shifts over time to identify trends and peak peri
 # Request Status Analysis
 We visualize the distribution of request statuses to understand the proportion of approved, rejected, and pending swap requests:
 
-
 <img width="300" alt="Screenshot 2023-08-25 at 10 02 00 AM" src="https://github.com/alirazi1992/7Shifts/assets/95105244/42ca53d4-d4cc-45d2-b83d-7722fedc3602">
 
 # Reasons for Swapping
@@ -72,7 +71,9 @@ We analyze the reasons behind shift swapping by creating a bar chart to visualiz
 
 <img width="500" alt="Screenshot 2023-08-25 at 10 03 38 AM" src="https://github.com/alirazi1992/7Shifts/assets/95105244/499bd88d-3c49-40e6-9727-89ab2fb6de50">
 
+# Employee Satisfaction
 
+To gauge employee satisfaction, we simulated an employee survey to gather feedback on the shift swapping process. While this is a simplified representation, real-world sentiment analysis could provide more accurate satisfaction scores:
 
 
 
