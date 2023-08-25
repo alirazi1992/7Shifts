@@ -38,3 +38,8 @@ A user is scheduled to work a role at a location, likely in a department, at a s
   - Time Punch
 Time punches represent clock actions, including breaks, attestation, health checks, and various other jurisdictional compliance data.
 A user clocks in and out of their scheduled shift.
+
+# Dataset 
+ For this project the dataset was generated synthetically. In this dataset there are 10000 rows with 10 columns. The columns are: shift_id,	employee_id,	employee_name,	shift_date,	start_time,	end_time,	duration,	request_status and 	swap_with	reason. 
+
+# 
