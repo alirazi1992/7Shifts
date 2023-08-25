@@ -65,7 +65,7 @@ We analyze the distribution of shifts over time to identify trends and peak peri
 We visualize the distribution of request statuses to understand the proportion of approved, rejected, and pending swap requests:
 
 
-<img width="500" alt="Screenshot 2023-08-25 at 10 02 00 AM" src="https://github.com/alirazi1992/7Shifts/assets/95105244/42ca53d4-d4cc-45d2-b83d-7722fedc3602">
+<img width="300" alt="Screenshot 2023-08-25 at 10 02 00 AM" src="https://github.com/alirazi1992/7Shifts/assets/95105244/42ca53d4-d4cc-45d2-b83d-7722fedc3602">
 
 
 
