@@ -42,4 +42,25 @@ A user clocks in and out of their scheduled shift.
 # Dataset 
  For this project the dataset was generated synthetically. In this dataset there are 10000 rows with 10 columns. The columns are: shift_id,	employee_id,	employee_name,	shift_date,	start_time,	end_time,	duration,	request_status and 	swap_with	reason. 
 
-# 
+# Data Overview
+The dataset consists of various columns providing valuable insights into shift swapping:
+
+shift_id: Unique identifier for shifts.
+employee_id: Unique identifier for employees.
+employee_name: Name of the employee.
+shift_date: Date of the shift.
+start_time: Start time of the shift.
+end_time: End time of the shift.
+duration: Duration of the shift.
+request_status: Status of the swap request (rejected, approved, pending).
+swap_with: Name of the employee the swap is requested with.
+reason: Reason for the shift swap.
+
+# Temporal Patterns
+We analyze the distribution of shifts over time to identify trends and peak periods of shift swapping activity. This helps us understand if certain months experience higher demand for shift swaps:
+
+<img width="841" alt="Screenshot 2023-08-25 at 9 59 01 AM" src="https://github.com/alirazi1992/7Shifts/assets/95105244/d334e16e-3db2-4edb-a9f2-d900a692450a">
+
+
+
+
