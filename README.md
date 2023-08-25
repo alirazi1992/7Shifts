@@ -67,6 +67,12 @@ We visualize the distribution of request statuses to understand the proportion o
 
 <img width="300" alt="Screenshot 2023-08-25 at 10 02 00 AM" src="https://github.com/alirazi1992/7Shifts/assets/95105244/42ca53d4-d4cc-45d2-b83d-7722fedc3602">
 
+# Reasons for Swapping
+We analyze the reasons behind shift swapping by creating a bar chart to visualize the distribution of the most common reasons for swaps:
+
+<img width="500" alt="Screenshot 2023-08-25 at 10 03 38 AM" src="https://github.com/alirazi1992/7Shifts/assets/95105244/499bd88d-3c49-40e6-9727-89ab2fb6de50">
+
+
 
 
 
