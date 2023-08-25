@@ -59,7 +59,7 @@ reason: Reason for the shift swap.
 # Temporal Patterns
 We analyze the distribution of shifts over time to identify trends and peak periods of shift swapping activity. This helps us understand if certain months experience higher demand for shift swaps:
 
-<img width="841" alt="Screenshot 2023-08-25 at 9 59 01 AM" src="https://github.com/alirazi1992/7Shifts/assets/95105244/d334e16e-3db2-4edb-a9f2-d900a692450a">
+<img width="500" alt="Screenshot 2023-08-25 at 9 59 01 AM" src="https://github.com/alirazi1992/7Shifts/assets/95105244/d334e16e-3db2-4edb-a9f2-d900a692450a">
 
 
 
