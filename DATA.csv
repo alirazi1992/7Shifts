@@ -1,0 +1,1001 @@
+shift_id,employee_id,employee_name,shift_date,start_time,end_time,duration,request_status,swap_with,reason
+0527439304,0427701538,Antoni Castelijn,2/17/2022,1:18 PM,12:35 PM,10.07,rejected,Waylin Goosey,Deadline for a project
+2564017673,5787495462,Trisha Spridgen,10/7/2022,4:39 PM,2:36 AM,7.66,approved,Say McGriffin,Religious observance
+0411626272,4838883633,Casi Gother,8/10/2022,2:49 AM,12:20 PM,1.18,rejected,Marji Biggin,Family emergency
+2106123841,9097102634,Rainer Werny,6/1/2022,4:57 AM,9:51 PM,7.77,rejected,Bev Sloey,Overtime at another job
+8426413978,9980748419,Lorettalorna Petz,7/18/2022,4:29 AM,8:59 PM,9.64,pending,Cherry Brockhurst,Celebratory occasion
+3328792597,6403946072,Si Suche,5/11/2022,9:14 AM,11:23 PM,9.3,pending,Peadar Kenvin,Celebratory occasion
+5385754846,0491428758,Kimmie Beeson,10/1/2022,9:03 AM,4:16 PM,8.05,pending,Claudianus Gouldthorp,Childcare responsibilities
+9324273698,1159804141,Garey Ebdon,6/9/2022,11:11 PM,10:49 PM,11.54,approved,Nelli Cosgrive,Attending a special event
+1706747802,5970154318,Haleigh Clouston,10/5/2022,1:03 PM,10:07 AM,11.84,pending,Estrellita Giovanazzi,Doctor's orders
+8213381254,8306256999,Elinor Costelloe,2/25/2022,7:54 AM,2:21 PM,8.15,approved,Willem Furness,Deadline for a project
+4066125972,5544985693,Zebulen Goodbar,9/13/2022,11:17 AM,10:14 AM,10.69,pending,Guillemette Lathan,Emergency home repair
+4881098721,8448598156,Melodie Cundey,2/19/2022,8:10 AM,12:14 AM,7.61,pending,Martie Simonelli,Shift conflicts with another job
+9161843776,3437445103,Gino McCroary,10/12/2022,10:25 AM,1:19 AM,7.96,rejected,Bartlett Petrelli,Vacation plans
+3496383437,6004605085,Rustin Raisher,7/2/2022,7:20 PM,2:01 PM,9.71,approved,Thom Baverstock,Shift conflicts with another job
+8009626236,5041353018,Woody Bulfoy,12/10/2022,6:07 AM,11:26 PM,1.47,rejected,Melisse Dory,Traffic congestion
+6511563782,0989356329,Cathrin Camelia,7/22/2022,4:41 AM,9:41 PM,6.35,pending,Andee Utton,Traffic congestion
+4859986954,7561926936,Letisha Strowan,9/19/2022,6:54 PM,1:01 AM,5.01,approved,Allistir Moehler,Vacation plans
+8392211561,4588004409,Domingo Hancox,11/19/2022,7:14 AM,2:09 AM,2.0,approved,Georges Overel,Unforeseen medical appointment
+7057940092,9472410472,Shelley Carman,4/2/2022,1:15 PM,10:25 AM,4.3,pending,Laurella Checkley,Last-minute travel
+3099067466,5021444190,Magdalena Schafer,6/29/2022,4:17 PM,10:26 AM,4.04,rejected,Peggie Renzini,Doctor's orders
+1815392924,8102521317,Thorstein Skirvin,2/11/2022,12:02 PM,8:23 PM,10.93,rejected,Dyna Hapke,Childcare responsibilities
+9975596649,5184876634,Reube MacElane,2/16/2022,12:46 AM,10:44 AM,6.92,rejected,Maddalena Voaden,Traffic congestion
+6890074270,4318714144,Emmerich Filyukov,9/6/2022,3:15 PM,4:53 AM,3.5,rejected,Mylo Parnell,Last-minute travel
+1001895126,9352921690,Leona Smither,4/15/2022,9:50 AM,2:40 AM,5.68,rejected,Ann-marie Hearle,Overtime at another job
+5730570139,8253622309,Russell Dampney,7/23/2022,6:37 AM,9:09 PM,5.05,pending,Ellyn Treadaway,Deadline for a project
+2170204660,8463122442,Bernadette Sancraft,8/14/2022,3:52 PM,11:02 PM,7.71,rejected,Alyson Thebeau,Shift conflicts with another job
+3587824924,3861506831,Ilyssa Pafford,7/28/2022,5:58 PM,2:44 AM,7.06,pending,Claudian Fowlston,Unexpected car breakdown
+8057732725,5813830529,Bat Gatchell,8/26/2022,6:06 PM,3:00 AM,10.56,rejected,Ceciley Schulkins,Unforeseen medical appointment
+9641121308,0138371970,Morton MacNaughton,2/12/2022,7:15 PM,1:26 PM,5.84,approved,Guendolen Peter,Celebratory occasion
+7333444643,4116011878,Sigfried Dollimore,9/8/2022,4:31 AM,2:03 PM,5.18,pending,Shawn Perview,Scheduling error
+1660966221,8579314798,Gianni Vanyashin,11/6/2022,2:12 AM,2:46 PM,10.05,approved,Carissa Fitchett,Last-minute travel
+5903129129,3401338129,Kimberlyn Baldack,4/13/2022,8:38 AM,10:25 PM,7.97,rejected,Derrick Camellini,Unforeseen medical appointment
+1828936499,3415195945,Mose Vitte,8/16/2022,6:21 AM,11:29 PM,9.49,rejected,Harlene Toffoloni,Transportation issues
+4725275069,8701725920,Sarette Blaydon,7/19/2022,3:51 AM,7:00 AM,6.34,rejected,Arte Bwy,Overtime at another job
+0254170978,4889501568,Nestor Westcarr,8/29/2022,12:15 AM,12:49 AM,7.14,pending,Alphonso Merricks,Transportation issues
+6735582594,8605598980,Bunnie Biggerstaff,1/31/2022,1:33 AM,2:31 AM,10.32,rejected,Emelina Avrahamov,Last-minute travel
+0899091407,4017998488,Maud Bartel,8/20/2022,10:16 AM,8:21 PM,10.54,rejected,Malcolm O'Docherty,Scheduling error
+0620913185,3435319836,Reeta Charle,2/3/2022,5:05 AM,2:10 AM,3.54,pending,Theobald Garioch,Personal appointment
+8185384975,7432653704,Maxim Saylor,1/12/2022,3:49 PM,11:49 PM,7.59,rejected,Loydie Kilroy,Personal appointment
+8780324126,5334004882,Glenn Sorbey,10/12/2022,8:16 AM,1:46 AM,6.69,approved,Helli Kettoe,Family emergency
+3523416280,8602433441,Emmerich Wortman,1/14/2022,2:55 AM,2:34 PM,6.31,rejected,Ulysses Delacote,Personal appointment
+1429690305,5601011907,Devonne Chaize,7/2/2022,1:57 AM,10:48 AM,10.89,approved,Toinette Micka,Deadline for a project
+3532383977,4156924793,Karalee Luby,8/20/2022,6:07 AM,2:55 PM,9.11,rejected,Ransom Wassell,Personal appointment
+3891639139,1760962961,Lizbeth Anton,1/7/2022,8:25 AM,9:21 AM,8.4,approved,Leena Molineaux,Doctor's orders
+4101150664,0357987160,Gerome Chishull,6/15/2022,6:00 PM,10:19 AM,6.91,approved,Rosabel Eyton,Traffic congestion
+4736219653,3467546927,Fran Hunnaball,2/20/2022,5:13 AM,8:43 PM,4.99,approved,Ansel Cornfield,Vacation plans
+8632955373,3036636501,Billi Stairmond,3/11/2022,8:00 AM,2:33 PM,7.97,approved,Theodora Passy,Personal appointment
+9007437895,4919081316,Olenolin Heinert,4/3/2022,1:37 PM,7:56 PM,3.99,rejected,Ted Elan,Shift conflicts with another job
+8123980523,8292013628,Happy Fasset,12/9/2022,4:16 AM,5:41 PM,7.33,rejected,Brigit Birth,Late shift at current job
+0613283066,2110273356,Millie Bonson,2/7/2022,8:48 AM,9:39 PM,10.11,rejected,Mead Sprules,Doctor's orders
+1544748590,1408286696,Antonino Strangeways,9/26/2022,9:47 AM,7:12 AM,2.48,pending,Nobie Munks,Unforeseen medical appointment
+0421072598,7038747223,Daryn Brolly,12/13/2022,2:54 PM,10:35 PM,8.97,pending,Wylma Colledge,Unexpected car breakdown
+6186432033,5266558415,Brier Jeppe,2/6/2022,2:14 AM,6:44 AM,7.6,rejected,Quintina Smy,Personal appointment
+9774643313,5834637140,Margaux Pavolini,10/1/2022,8:10 AM,10:06 AM,7.9,approved,Sheri Orbon,Last-minute travel
+8418452358,9796528835,Alikee Veeler,5/28/2022,2:56 AM,5:47 AM,1.32,pending,Inger Glynn,Vacation plans
+8495456621,9352604148,Demott Speares,10/16/2022,4:10 AM,5:41 PM,9.47,pending,Bernadene Millimoe,Illness
+9894136850,4653059985,Analise Stother,1/13/2022,11:17 AM,6:55 AM,6.01,rejected,Loren Pahl,Important meeting
+9866333477,4688118813,Erika Laydel,6/18/2022,12:01 AM,9:47 AM,6.79,approved,Corbett Dello,Emergency home repair
+6598579945,1879052482,Michele Gascoine,10/1/2022,7:53 PM,8:08 PM,10.49,rejected,Florina Schultes,Traffic congestion
+8240524109,8311233497,Kimberly Dobrovolski,6/15/2022,4:18 PM,8:59 AM,7.72,rejected,Myca Davydoch,Emergency home repair
+2645851177,0279201079,Emilio Gimblett,2/7/2022,2:24 AM,4:58 AM,5.64,pending,Michelle Neillans,Vacation plans
+7859776693,8829882658,Den Millthorpe,11/1/2022,2:16 AM,10:48 AM,6.49,approved,Karim Dedden,Overtime at another job
+7942953831,9589599125,Hasty Mackilpatrick,2/21/2022,8:21 PM,12:35 PM,6.44,approved,Merla Vedyaev,Religious observance
+9744067535,3808994215,Lissa Tongs,2/1/2022,8:05 PM,3:14 AM,3.04,approved,Maitilde Duffyn,Religious observance
+9844842654,0045809976,Pattin Mundell,6/29/2022,9:35 PM,4:39 AM,11.93,pending,Aldric Dorran,Important meeting
+9162285181,7221981019,Rodrick Heare,12/2/2022,11:10 PM,5:44 AM,1.86,pending,Pris Bonson,Late shift at current job
+8050865347,8272028360,Seka Adrian,8/14/2022,8:33 PM,6:46 AM,8.58,pending,Alexis Gibberd,Doctor's orders
+9143512178,0070272794,Marlyn Pfaffel,11/28/2022,7:37 PM,11:14 PM,7.17,approved,Myer Garlant,Deadline for a project
+4821781387,3147363708,Helaine Nettleship,11/6/2022,6:48 PM,8:56 AM,6.56,approved,Cort Dalman,Personal appointment
+8220625015,8865056584,Codie Canelas,8/26/2022,11:30 PM,11:55 PM,5.3,rejected,Rasia Godthaab,Personal appointment
+5607152995,6383936832,Jeri Rycroft,2/5/2022,12:46 PM,2:33 AM,2.06,pending,Thaddeus Bignall,Important meeting
+7425948001,7709598374,Haleigh Pickthorne,7/6/2022,7:02 AM,7:33 AM,1.03,rejected,Darcey Mursell,Religious observance
+1658985192,1559734485,Mady Northage,5/30/2022,7:52 AM,6:44 PM,7.97,approved,Hew Richard,Vacation plans
+5787157648,4253607306,Amandie Snoddy,9/26/2022,7:29 AM,6:23 AM,2.25,pending,Brynna Biggen,Doctor's orders
+1563061732,3996050089,Ainslee Magnar,9/23/2022,11:58 AM,12:23 AM,7.61,rejected,Floria Gonzales,Scheduling error
+4196919898,4695382555,Muffin Yacob,9/24/2022,4:40 AM,4:18 PM,10.03,rejected,Frasco Templeman,Illness
+4407624108,4833597241,L;urette Durdle,9/5/2022,8:44 PM,2:25 AM,2.67,approved,Daron Quinnet,Scheduling error
+7406311079,0031274161,Una Fortey,8/25/2022,3:47 PM,5:42 AM,10.81,pending,Brit Prigmore,Doctor's orders
+3409783997,8640059055,Ceil Kuhnwald,9/10/2022,10:46 PM,4:15 PM,6.39,pending,Cele Leale,Family emergency
+6914557187,8834899377,Rocky Barthrup,7/13/2022,8:54 AM,6:01 AM,2.1,pending,Zondra MacDonell,Doctor's orders
+5939401716,7611219588,Sandie Rizzolo,1/3/2022,12:00 AM,1:45 AM,3.07,pending,Gill Falkous,Scheduling error
+1577126297,0539045950,Marcelle Galtone,4/11/2022,11:48 AM,9:23 PM,10.68,rejected,Corliss Pothbury,Vacation plans
+0969002270,6090262838,Christa Bernlin,4/17/2022,5:31 AM,4:28 PM,4.52,approved,Skip Blankenship,Traffic congestion
+8182863430,0573468303,Terence Laroux,12/1/2022,1:44 AM,1:18 PM,8.04,approved,Bertine Habden,Childcare responsibilities
+9009338312,1559050047,Tessi Raincin,11/4/2022,6:30 AM,6:04 AM,4.25,rejected,Dotti Peller,Overtime at another job
+8018226393,9819131073,Mirella Balfre,2/3/2022,9:29 PM,5:55 PM,5.98,approved,Alyce Argont,Celebratory occasion
+5133025351,5502065936,Orlando Cozby,12/14/2022,1:27 AM,12:28 PM,3.88,pending,Nikkie Titlow,Traffic congestion
+5863725796,4390142836,Adam Poinsett,7/10/2022,10:47 PM,11:18 PM,3.5,rejected,Geralda Crayker,Unforeseen medical appointment
+8663419252,1573397865,Davy Glowinski,5/20/2022,2:30 AM,8:51 PM,6.28,approved,Scarlet Beaument,Shift conflicts with another job
+0307126161,3151241379,Franciskus Kaygill,11/16/2022,11:37 PM,4:19 PM,8.71,rejected,Illa Aubury,Religious observance
+4401767063,5572111902,Mair McAndie,9/21/2022,10:28 PM,8:51 AM,8.27,pending,Janis Woolaghan,Late shift at current job
+3297160543,5143873894,Jack Nobes,9/11/2022,5:11 AM,5:20 PM,6.67,approved,Dionne Coultard,Family emergency
+8681587986,7387481822,Bunny Pesselt,4/29/2022,2:16 AM,7:49 PM,7.54,rejected,Dur Boyington,Religious observance
+6372536730,3319570056,Norri Derrington,5/13/2022,3:42 PM,11:36 AM,4.17,pending,Quinlan Hebble,Doctor's orders
+5759217933,8460372855,Madelena Sodo,6/29/2022,3:02 PM,9:41 PM,1.72,pending,Winni Richten,Doctor's orders
+9953715343,5771863874,Corbett Rillstone,12/10/2022,4:11 PM,4:25 PM,2.7,pending,Quintana Arlet,Personal appointment
+1879786141,5669144422,Lelia Poston,11/15/2022,8:40 PM,6:16 PM,2.26,approved,Wyatan Varren,Religious observance
+8978204953,4086268655,Roddie Danniel,11/13/2022,2:09 PM,10:07 PM,6.44,pending,Dominick Kincaid,Transportation issues
+8979525311,2451390522,Fey Edelheit,9/26/2022,10:08 PM,2:25 PM,6.56,approved,Nancie Ewbanks,Traffic congestion
+4018629249,1062879147,Maddy Izzett,3/21/2022,4:43 AM,7:33 PM,1.93,rejected,Stacia O'Hare,Overtime at another job
+9118728073,4709290687,Shandra Hunday,6/17/2022,4:33 PM,7:53 AM,1.9,approved,Red Franceschi,Illness
+3595910036,2852401932,Gussy Nitti,10/20/2022,12:28 PM,7:15 AM,3.6,rejected,Perla Lumly,Religious observance
+1129794261,3331104787,Cheston Brotherhed,1/9/2022,3:08 AM,2:02 AM,1.17,rejected,Goddart Lee,Attending a special event
+2362790754,6776176507,Chandra Connell,12/26/2022,7:56 AM,9:22 PM,1.26,approved,Carlin Vass,Illness
+5129461126,1076659802,Christoforo Pikesley,6/16/2022,6:53 AM,7:47 AM,5.52,rejected,Arabel Pues,Vacation plans
+0588294101,8402537251,Barty Salleir,4/24/2022,1:48 AM,7:07 AM,10.26,rejected,Judah Willder,Religious observance
+8108109760,4318848604,Hewet Riddel,8/25/2022,11:05 AM,5:11 PM,1.58,rejected,Colby Aim,Unforeseen medical appointment
+9153738632,8344811333,Melina Vicioso,6/4/2022,11:28 AM,1:28 PM,2.32,approved,Almira Sellars,Last-minute travel
+6535000818,8073616483,Trudie Penreth,4/12/2022,2:39 PM,2:01 AM,8.73,pending,Leslie Vernau,Unexpected car breakdown
+8559339272,7566520814,Hedy Corrett,9/7/2022,6:57 PM,6:23 PM,3.34,pending,Blanca Fidgett,Transportation issues
+8540422166,0868787272,Rochelle Conerding,4/6/2022,9:19 PM,5:24 AM,2.45,rejected,Novelia McCathie,Doctor's orders
+3812007371,1839634340,Nap Gealy,6/7/2022,12:00 AM,6:10 AM,6.4,pending,Bail Gabbatt,Traffic congestion
+7736841489,1979284326,Karoline Chown,7/25/2022,5:19 AM,7:02 PM,4.43,rejected,Jo Bulloch,Emergency home repair
+7328486813,8801867379,Stevie Paddy,4/24/2022,6:42 PM,11:22 PM,11.9,pending,Randolph Arrault,Unforeseen medical appointment
+4230679203,8232957360,Carolyn Schober,5/25/2022,9:37 PM,9:32 PM,1.52,pending,Kendell Worham,Traffic congestion
+1016290330,2662438215,Sharia Harries,11/11/2022,2:47 PM,2:39 PM,11.34,approved,Ronnie Scurrell,Religious observance
+4368103440,1425570836,Jodi Wiffill,1/25/2022,2:05 PM,6:59 AM,11.96,rejected,Emili Waterhouse,Deadline for a project
+6496412774,4659671747,Phip Simmers,1/6/2022,3:51 PM,2:31 AM,8.91,approved,Biron Martschke,Unexpected car breakdown
+8570355254,3796403581,Jermaine Stangoe,11/5/2022,1:40 AM,9:12 PM,5.13,rejected,Bennie Este,Vacation plans
+4992831842,8790812190,Erminia Foli,12/18/2022,7:41 PM,2:03 PM,3.21,approved,George Mc Faul,Childcare responsibilities
+6919636662,8653003193,Orion Hamon,2/20/2022,8:52 AM,10:05 AM,1.27,approved,Bengt Doohan,Childcare responsibilities
+3716037974,5139314983,Shem Speedin,12/3/2022,7:47 AM,8:25 AM,2.26,approved,Wilmette Ballay,Transportation issues
+5830424010,1867468190,Francklyn Rable,9/25/2022,3:11 PM,5:36 AM,3.18,rejected,Zared Walpole,Personal appointment
+6353444249,2604868954,Thayne Hellikes,8/14/2022,11:13 AM,6:00 PM,3.79,rejected,Elissa Suston,Doctor's orders
+8584142576,1096158167,Roslyn Gergler,5/15/2022,8:06 AM,12:17 AM,1.72,pending,Maisie Fruser,Transportation issues
+0465022243,9511814818,Pavla McLennan,12/8/2022,9:55 AM,8:14 AM,7.72,pending,Rourke Slane,Personal appointment
+9193579683,7805833818,Paten Asman,12/23/2022,12:47 AM,1:00 PM,10.38,approved,Beatriz Pargetter,Religious observance
+1614414130,4661618866,Wadsworth Niezen,12/10/2022,3:19 PM,4:37 PM,6.04,approved,Conrade Chippindall,Scheduling error
+7515208449,2157414568,Amargo Chantillon,6/10/2022,11:08 AM,12:17 PM,7.21,rejected,Antonino O'Howbane,Scheduling error
+6796438760,6881583680,Zara Jeaffreson,4/26/2022,5:26 AM,6:18 PM,3.33,approved,Teodor Stove,Celebratory occasion
+9057769026,8431961368,Christiano Gerasch,7/23/2022,2:43 PM,5:55 PM,5.03,pending,Daria Shine,Important meeting
+3635238171,4044057893,Aguie Anderton,7/15/2022,10:31 PM,1:06 PM,5.96,approved,Stormi Spickett,Illness
+3279704502,5491579831,Karrie Spence,6/23/2022,6:07 AM,5:07 AM,7.57,pending,Ashley Beswick,Deadline for a project
+6823866993,8162269592,Rudyard Jiruch,12/14/2022,8:47 PM,4:01 PM,11.34,pending,Grove Willshire,Celebratory occasion
+9291136573,7396103517,Berta Nicely,8/27/2022,11:51 AM,12:37 PM,8.08,pending,Issi Paddle,Scheduling error
+5237393535,4373153019,Fidelio Jaulmes,12/8/2022,1:35 PM,2:08 PM,10.16,approved,Kerri Basek,Religious observance
+5829122545,0203888391,Abagael Wordesworth,1/16/2022,10:02 AM,10:13 AM,9.08,approved,Delano Toulson,Traffic congestion
+1439290032,1829234145,Hewitt Trye,12/19/2022,9:06 AM,3:49 AM,2.57,rejected,Consolata Cantwell,Religious observance
+1283296276,4554790398,Quinn Angless,6/27/2022,7:02 AM,7:44 PM,10.86,pending,Al Darington,Scheduling error
+9944752606,7017203321,Amandy Garbutt,10/29/2022,4:25 AM,3:04 AM,4.8,rejected,Homerus Carnall,Deadline for a project
+4551773360,8570076851,Emmey McSporrin,3/4/2022,3:08 AM,7:54 AM,7.3,pending,Hildegaard Skeemor,Vacation plans
+6570662163,6333435732,Penny Boyer,9/8/2022,7:17 AM,10:01 AM,5.73,pending,Judye Greetland,Unexpected car breakdown
+2408525195,6614807501,Avictor Wrankmore,6/30/2022,10:16 PM,8:39 PM,9.28,pending,Selestina Bramhall,Shift conflicts with another job
+5734473154,5060016137,Sidoney Laffin,11/13/2022,6:43 PM,11:55 PM,11.29,pending,Winn Prime,Attending a special event
+4058029412,2801482455,Claiborn O'Dempsey,11/21/2022,7:02 AM,12:26 AM,9.48,pending,Bernhard Cogdell,Last-minute travel
+6569566458,1207547182,Yanaton Hockey,3/23/2022,5:18 PM,4:19 PM,8.6,pending,Gaile Baum,Celebratory occasion
+8339701045,3547308828,Byran MacSweeney,2/3/2022,11:05 PM,6:00 AM,10.07,pending,Anatole Thickin,Childcare responsibilities
+6139129419,1829595997,Lothaire Ouldcott,3/28/2022,6:38 PM,5:14 PM,4.55,pending,Bendicty Gaythwaite,Important meeting
+2504354533,8296043580,Sylvan Haggath,7/17/2022,7:47 PM,8:14 PM,8.17,approved,Malory Smails,Traffic congestion
+2076441298,7045461550,Babbette Radborn,8/10/2022,1:40 AM,9:15 AM,4.1,approved,Agatha Penchen,Last-minute travel
+6167935149,9354849636,Nesta Vallentin,1/31/2022,2:07 PM,2:20 AM,4.93,rejected,Moyna Larne,Personal appointment
+8072427601,7595972906,Stephana Drewitt,1/28/2022,6:05 PM,11:57 AM,2.81,pending,Eldin Challin,Deadline for a project
+9167903401,6213562664,Tamqrah Rushbrook,4/1/2022,12:46 PM,11:57 PM,7.89,pending,Thomasin Struttman,Family emergency
+8092352038,6491730905,Carleton Daye,12/14/2022,4:35 PM,1:36 AM,3.06,approved,Glenine Neasam,Overtime at another job
+4763056123,2041895233,Myrta Spadari,3/13/2022,7:01 PM,4:10 AM,11.59,approved,Lewie Placide,Family emergency
+2874112372,7546154731,Morie Waything,6/24/2022,9:29 PM,12:41 AM,4.65,pending,Reinwald Itzkov,Vacation plans
+2831163099,2625777761,Jacqueline Knocker,7/22/2022,5:33 AM,6:31 PM,7.82,rejected,Livvy Beamond,Important meeting
+6578289836,7831764631,Lemmie Connechy,5/6/2022,10:34 PM,2:15 AM,9.39,approved,Rhody Coy,Scheduling error
+5059810860,0193548178,Tilda Pamplin,1/15/2022,2:37 AM,8:42 AM,11.47,rejected,Irma Cutting,Last-minute travel
+9002332602,1202751342,Raye Merkel,11/10/2022,1:17 PM,10:22 PM,4.95,approved,Pincas Haily,Unexpected car breakdown
+4587368687,8038696395,Loree Fladgate,2/25/2022,9:17 AM,4:36 PM,1.27,pending,Rusty Ternouth,Late shift at current job
+8250242807,7901867566,Elinor Lomax,3/27/2022,10:08 PM,3:13 AM,11.18,pending,Alexine Flacke,Late shift at current job
+9059883217,8664641420,Farlay Fenix,10/26/2022,8:38 PM,1:33 PM,7.85,approved,Mario Tilliards,Deadline for a project
+1061948447,0939428873,Georgetta Giacaponi,3/8/2022,5:31 PM,6:24 AM,5.62,approved,Genevieve McCritichie,Transportation issues
+1559303867,1229620575,Sharl Potes,11/4/2022,8:15 PM,2:26 PM,1.54,approved,Selie Braybrooks,Last-minute travel
+9036899613,3758806380,Riley Costellow,12/2/2022,2:04 AM,4:45 PM,8.87,pending,Lowrance Jillions,Important meeting
+5356903545,7578690701,Eldredge Chattock,8/11/2022,8:00 AM,8:51 AM,3.25,approved,Joelly Pottberry,Celebratory occasion
+9545154993,9174860747,Tonye Cubbin,1/29/2022,10:15 PM,2:55 AM,4.58,rejected,Chane Clotworthy,Childcare responsibilities
+4770741847,7568644243,Scarface Sharper,3/25/2022,10:14 PM,9:13 AM,8.25,approved,Nanci Rearie,Doctor's orders
+9782167762,8149651918,Garth Laughnan,11/19/2022,7:39 PM,8:40 PM,11.3,approved,Benny Leeder,Personal appointment
+8454349235,7541865826,Roy Inchan,2/2/2022,1:36 AM,4:40 PM,9.72,rejected,Amble Lardez,Overtime at another job
+9086371531,9562965848,Dorian Downton,3/18/2022,1:31 PM,9:06 PM,6.66,approved,Eada Pettit,Important meeting
+3638668797,5836628068,Thorvald Iacovozzo,4/9/2022,10:00 PM,8:06 PM,7.2,rejected,Wendye Jewsbury,Doctor's orders
+8649044107,7776782599,Kylynn Jiru,10/18/2022,7:01 AM,11:17 PM,7.93,rejected,Bobbie Downing,Scheduling error
+9206539353,0417157916,Darcie Cutajar,5/14/2022,6:26 PM,10:58 PM,8.93,rejected,Vaughn Courtliff,Illness
+2914831404,3107210218,Granthem Folbigg,7/27/2022,12:04 PM,5:27 AM,3.63,pending,Sammie Hankinson,Attending a special event
+6205519798,5935184796,Miof mela Durker,2/4/2022,7:00 AM,1:53 PM,7.27,rejected,Kelcy Ells,Last-minute travel
+0579855570,9866182541,Natassia Elgey,1/7/2022,12:47 AM,2:41 AM,4.65,approved,Roma Scartifield,Celebratory occasion
+8378440249,7626574222,Phylys Haskayne,8/9/2022,5:53 AM,6:40 PM,9.82,pending,Kelcie Varey,Important meeting
+9601351078,6276197092,Matilda Simonson,3/8/2022,8:32 PM,12:37 AM,3.79,rejected,Amory Iwanicki,Illness
+8680090751,6736541220,Obediah Plewright,10/24/2022,1:40 AM,3:13 PM,3.35,rejected,Ursula Coathup,Family emergency
+2862763284,3515203125,Frazer Flay,4/14/2022,6:16 PM,4:56 PM,4.41,approved,Sonni Borth,Late shift at current job
+3321639459,9479844508,Deane Giacovazzo,1/27/2022,12:44 AM,10:40 PM,4.87,pending,Nealy Daly,Family emergency
+3136265505,8171764991,Kellia Bennallck,9/5/2022,9:42 PM,11:36 PM,10.68,pending,Hatti Pimm,Unforeseen medical appointment
+8988109104,4137504644,Pamella MacIntyre,8/18/2022,8:21 PM,4:03 AM,8.73,pending,Benn Lister,Late shift at current job
+9577451055,6644597602,Shari Schruyer,9/20/2022,6:29 PM,2:03 AM,6.68,rejected,Flem Kivelhan,Doctor's orders
+6823319062,9391922767,Galvan Niche,11/22/2022,5:43 PM,8:36 PM,9.27,approved,Aluin Hamm,Scheduling error
+7175305931,3517803952,Patsy Faivre,10/24/2022,10:49 AM,1:01 PM,5.3,approved,Jemimah Gregoli,Late shift at current job
+2490203975,2114795934,Patrizius D'Alessandro,12/9/2022,2:15 PM,1:01 PM,7.6,pending,Thomasa MacMychem,Last-minute travel
+7277599861,1415411808,Vera Pearcy,3/28/2022,10:54 PM,5:49 PM,10.52,approved,Sven Eckels,Shift conflicts with another job
+7248475432,7290595629,Norina Hefford,1/15/2022,1:33 AM,6:43 PM,3.83,approved,Oralee Eykel,Personal appointment
+0145902196,4208322519,Ivar Hekkert,1/8/2022,9:12 AM,3:42 PM,4.37,pending,Terrance Huzzey,Childcare responsibilities
+0613642619,6011597858,Con Auden,4/15/2022,7:33 PM,5:45 PM,2.3,approved,Celisse Muggeridge,Religious observance
+8213140265,5253098763,Jacenta Mingus,3/7/2022,4:05 PM,11:50 PM,8.66,pending,Corry Speares,Religious observance
+2740703910,2640688006,Tucky Lambarton,1/10/2022,6:21 AM,4:57 AM,8.03,pending,Perla Turnpenny,Religious observance
+4597395911,7368775085,Sharyl Chalder,1/6/2022,2:02 PM,7:21 PM,1.32,pending,Regan Puzey,Doctor's orders
+2946251012,4809900401,Winnah Cattermole,5/11/2022,1:00 AM,6:56 AM,11.05,approved,Kaela Wroth,Doctor's orders
+9559362690,1002118336,Randie Aizkovitch,1/7/2022,1:34 PM,5:49 AM,11.21,rejected,Otis Boyack,Late shift at current job
+9724640442,0267678630,Ahmed Manterfield,7/12/2022,12:03 AM,3:29 PM,4.49,approved,Davita Vasyutichev,Late shift at current job
+9253619422,1961151359,Nataline Wimbush,3/11/2022,10:04 AM,1:02 PM,1.02,rejected,Elayne Sheardown,Personal appointment
+4885416388,8311586934,Larisa Yvon,1/14/2022,11:53 PM,12:51 PM,4.67,approved,Far Pardey,Last-minute travel
+9992630876,1973276380,Dill O'Cannon,3/19/2022,6:51 AM,7:42 AM,1.99,approved,Isaiah Bikker,Attending a special event
+6806198309,3923609523,Corbie Jessard,2/7/2022,1:07 PM,7:09 AM,6.45,approved,Myrtice McGee,Scheduling error
+7662722228,5521782923,Dorthy Blair,3/20/2022,3:53 AM,7:20 PM,8.47,approved,Tarah Crambie,Transportation issues
+8310826141,1570891486,Caresse Matashkin,8/4/2022,10:08 PM,12:23 AM,10.27,rejected,Tull Edgin,Unforeseen medical appointment
+3109515334,1735325066,Bebe Shimmin,4/1/2022,11:55 PM,2:05 AM,4.37,rejected,Teodoor Saywell,Vacation plans
+7634278092,6160195891,Kania Seczyk,11/10/2022,4:15 PM,12:24 PM,8.02,approved,Dougy Huitt,Family emergency
+5531633726,5613345228,Fremont Rowlstone,5/31/2022,9:53 PM,8:01 PM,10.76,rejected,Duffie Cheevers,Traffic congestion
+2084843049,9521347929,Paige Arnatt,3/24/2022,2:11 PM,9:13 AM,7.05,rejected,Orsa Mordanti,Late shift at current job
+7806299246,5723273787,Fitz Plank,3/1/2022,3:57 AM,7:14 AM,2.68,pending,Ephrem Pesek,Unforeseen medical appointment
+6514783031,1424995728,Johnath Eddisforth,1/9/2022,7:51 AM,10:02 AM,4.31,pending,Max Kenneway,Transportation issues
+8881727242,7850600746,Talia Derl,4/24/2022,5:25 AM,8:50 AM,9.41,pending,Guilbert Bartak,Childcare responsibilities
+9650373179,7515853476,Hurley Penwarden,1/14/2022,2:33 AM,6:55 PM,5.89,rejected,Ruperto Tomankiewicz,Deadline for a project
+9104549775,5560135062,Hertha Strowthers,12/1/2022,1:56 AM,12:23 AM,4.61,pending,Etienne Bonnier,Overtime at another job
+8636435277,4242023545,Baron Gosforth,4/9/2022,6:44 AM,10:50 AM,11.88,pending,Ira Pickston,Transportation issues
+3470241481,3712941587,Nerti Hurtado,10/19/2022,4:08 PM,8:20 PM,5.78,approved,Penrod Spens,Important meeting
+6928157666,2212893728,Mab Barwell,2/6/2022,8:56 PM,11:15 PM,5.24,pending,Dione Shouler,Late shift at current job
+0076260321,2954710616,Cyril Sich,3/9/2022,1:40 AM,9:26 PM,11.43,pending,Lawton Kittle,Unexpected car breakdown
+6635498966,2740823223,Winnifred Kemmer,6/12/2022,8:45 AM,2:37 AM,6.21,pending,Randie Darycott,Late shift at current job
+9350475340,4754822900,Devondra Hradsky,11/24/2022,1:07 PM,8:55 AM,9.48,approved,Madlin Gettings,Doctor's orders
+9714790212,2194046720,Colet Lamperd,11/2/2022,3:57 PM,2:38 AM,10.72,approved,Patrica Candwell,Illness
+2497213313,9691749092,Stacie Pickless,2/10/2022,9:56 AM,2:29 AM,9.06,pending,Davidson Saladine,Attending a special event
+6044569357,2198122758,Kelcey Rawlinson,7/17/2022,5:26 AM,2:55 AM,7.8,approved,Tan Spurett,Scheduling error
+7331984594,2463561335,Gideon Bugden,7/25/2022,1:40 PM,11:51 PM,7.33,rejected,Caesar Pastor,Vacation plans
+2946351661,0085740594,Maggi Petrashkov,7/30/2022,6:10 AM,5:05 PM,8.6,rejected,Margarette O' Donohoe,Emergency home repair
+3318736996,7294596484,Amil Pragnell,10/10/2022,9:58 AM,4:09 PM,10.58,approved,Gary Smail,Last-minute travel
+7086070041,1649534833,Milena Noad,2/24/2022,4:59 PM,12:22 AM,5.44,rejected,Pauline Chisman,Overtime at another job
+5273213614,5896948328,Alexine Gantley,10/22/2022,3:12 PM,12:15 AM,10.35,pending,Zachary Stickney,Late shift at current job
+4423595788,0194390586,Faith Planks,2/18/2022,6:12 AM,5:43 PM,10.25,pending,Ase Heber,Religious observance
+1778844065,0614275210,Alford Cromwell,1/11/2022,4:00 AM,10:24 PM,2.19,rejected,Elyse Nelsen,Shift conflicts with another job
+4583255950,1617928860,Morse Fabler,4/10/2022,9:59 AM,1:42 AM,4.11,approved,Davon Fireman,Doctor's orders
+1196896216,3739179759,Dulce Petranek,1/20/2022,4:47 AM,9:24 PM,1.31,rejected,Daren Tatem,Unexpected car breakdown
+8679006572,0068812035,Marlena Heighton,5/24/2022,11:19 PM,9:28 PM,7.88,rejected,Job D'Ambrogio,Unexpected car breakdown
+2900685125,1363849719,Truman Coppledike,7/22/2022,11:16 PM,1:49 AM,5.51,rejected,Maxine Carlisso,Illness
+4661732618,7680651736,Daphna Rubinow,1/10/2022,7:36 PM,8:31 PM,5.02,approved,Vita Stanfield,Shift conflicts with another job
+9339913043,7550051496,Jonie Antyukhin,8/28/2022,2:58 PM,2:44 PM,1.46,approved,Brewer Girauld,Shift conflicts with another job
+8529006135,8023500333,Marin Nafziger,11/16/2022,6:53 PM,11:02 AM,4.89,approved,Mirella Halston,Scheduling error
+6377724748,5546837608,Jobie Mertgen,11/8/2022,2:17 AM,3:15 AM,9.63,pending,Marjie Gorse,Important meeting
+4280816646,4743301971,Shellie Ludvigsen,12/29/2022,2:08 PM,6:29 AM,4.96,pending,Giacobo Bagnall,Deadline for a project
+5022719495,1430739401,Grover Dibbin,8/24/2022,10:56 PM,8:27 PM,3.09,approved,Waylan Limmer,Late shift at current job
+7593585506,1668883406,Katy Newick,12/21/2022,1:42 AM,12:09 PM,4.84,rejected,Alfonse Lettuce,Childcare responsibilities
+8934234830,8526106384,Hodge Stamper,1/25/2022,7:51 PM,8:34 PM,4.12,pending,Shanna Laddle,Childcare responsibilities
+2477030809,8869293351,Vinnie Steer,6/22/2022,8:41 AM,12:27 PM,11.58,approved,Grove Denington,Illness
+5594706100,0332034569,Cordy Efford,3/15/2022,8:12 AM,10:59 AM,2.46,approved,Lorrin Duchant,Illness
+2114745406,8671442535,Feodor Cribbott,8/21/2022,4:33 AM,6:35 PM,8.44,rejected,Lanny Thomke,Traffic congestion
+1639278753,0450932133,Lowrance Luther,1/11/2022,1:06 AM,12:37 PM,10.2,approved,Keeley Charrier,Celebratory occasion
+7573275528,8136113408,Guglielma Overland,8/23/2022,5:50 AM,3:33 AM,3.58,rejected,Patrice Nunes Nabarro,Shift conflicts with another job
+3633583785,8258374362,Issiah Kleen,5/23/2022,3:24 PM,8:45 PM,4.37,pending,Rafaelia Mathouse,Celebratory occasion
+9198656597,6782090686,Neda McCrie,1/18/2022,9:53 AM,8:30 PM,3.8,approved,Charlie Dumphries,Late shift at current job
+3157192396,6300536041,Aldus Goodbairn,12/3/2022,10:06 AM,8:53 AM,10.65,pending,Allyn Beggi,Late shift at current job
+5820895061,0765143313,Donielle Scamwell,3/2/2022,5:46 AM,4:52 AM,2.91,pending,Jami Ferencz,Unexpected car breakdown
+8909389826,8368869773,Darnell Tocque,4/29/2022,10:34 PM,12:43 AM,11.59,rejected,Danyelle Gregorowicz,Late shift at current job
+5483111028,9706374035,Sabine Ferrarotti,4/16/2022,1:09 AM,9:19 PM,8.47,pending,Tobye Pallatina,Celebratory occasion
+7239838633,6287350482,Kinna Grahlmans,12/3/2022,9:08 PM,7:01 AM,8.06,approved,Rafaela Garfirth,Doctor's orders
+9154660831,2017386456,Bertha Matei,12/17/2022,8:43 AM,12:07 PM,6.97,pending,Bill Skeldinge,Attending a special event
+7961559299,2893341705,Phillipp Yanshin,10/18/2022,1:41 AM,10:24 AM,6.57,pending,Molly Harring,Unexpected car breakdown
+9921032305,2713107288,Jeramey Bamlet,5/2/2022,12:02 PM,4:25 AM,1.34,approved,Vanna Haryngton,Illness
+2050281846,5394026750,Prudi Glyn,10/18/2022,7:33 AM,1:35 PM,7.89,approved,Heather Taphouse,Attending a special event
+6607648762,4470901091,Meaghan Symonds,2/22/2022,12:11 PM,1:25 AM,6.84,approved,Lukas Grigoryev,Religious observance
+5578097251,3093382939,Dame Overill,1/24/2022,7:03 AM,9:56 AM,1.67,pending,Zebulon Pigot,Scheduling error
+3676662431,7598095329,Florentia Dunstone,11/15/2022,8:13 PM,3:53 AM,10.98,approved,Gabbie Potell,Traffic congestion
+9907952737,4934142797,Arlene Vannah,7/12/2022,2:59 PM,8:39 AM,9.3,rejected,Warren Disbrey,Religious observance
+7240817261,4056105642,Katee Venes,9/8/2022,8:31 PM,10:01 AM,6.24,rejected,Edin Wylie,Traffic congestion
+8238417724,1899757201,Josie Sydes,8/14/2022,12:16 AM,9:22 AM,1.38,approved,Nealon Partleton,Childcare responsibilities
+8423928357,7989606097,Jerry Jarville,1/11/2022,9:49 PM,3:06 PM,7.09,pending,Gerick Culver,Doctor's orders
+5599647811,1491005718,Pete Haws,12/6/2022,10:37 AM,10:28 AM,9.24,approved,Agnes MacTrustam,Celebratory occasion
+8892831054,1948238594,Brenden Shipperbottom,2/20/2022,8:23 AM,12:52 AM,6.84,approved,Roz Gommowe,Doctor's orders
+7730040719,1200277171,Jasmine Sheldrick,11/16/2022,3:47 AM,1:57 AM,9.35,pending,Alix Kroon,Unexpected car breakdown
+6076226617,2052694315,Hayes Elcomb,7/19/2022,2:13 AM,1:45 AM,3.7,approved,Siouxie Roscher,Illness
+4198609438,1432752707,Norry Balassi,12/29/2022,9:15 PM,10:10 PM,2.67,pending,Karol Kosiada,Emergency home repair
+6813686909,8900393898,Benny Cervantes,12/7/2022,12:13 PM,2:17 PM,11.6,pending,Willem Kittoe,Deadline for a project
+4171527589,4395588328,Sabina Grabiec,9/21/2022,2:07 PM,6:57 PM,5.28,rejected,Lombard Seamon,Family emergency
+4439727247,6195060674,Ennis Brompton,6/21/2022,3:13 AM,10:27 AM,6.24,rejected,Nadeen Brabham,Transportation issues
+6653641597,5971885294,Daron Duckels,7/5/2022,8:34 AM,5:54 AM,10.38,pending,Ellyn Hardson,Personal appointment
+8408933299,6829047323,Roth Peschmann,2/9/2022,12:33 PM,2:14 PM,8.74,rejected,Mattias Cuttelar,Attending a special event
+2123540072,6317180040,Zachary Biasioni,11/13/2022,10:27 AM,8:32 AM,6.1,pending,Adeline Whelpton,Celebratory occasion
+6567217685,5103404044,Norbert Gavey,5/27/2022,4:58 PM,12:19 AM,7.62,pending,Elfrida McSherry,Emergency home repair
+9553455956,4972406518,Del O'Mailey,11/20/2022,12:54 PM,7:27 PM,8.28,rejected,Onida Andreev,Traffic congestion
+6513686237,2056455358,Caril Djurdjevic,3/23/2022,10:50 AM,10:42 PM,2.87,rejected,Averil Sprigings,Attending a special event
+2926751990,8595078793,Madelene Verrillo,1/17/2022,11:45 PM,12:52 PM,8.55,approved,Jenine Bruyett,Personal appointment
+4187474447,8739274624,Cookie Balogun,12/10/2022,5:46 AM,11:39 PM,7.84,approved,Kain Bril,Unexpected car breakdown
+6718695297,7784907907,Jennifer Zanassi,2/16/2022,2:22 PM,12:43 AM,4.55,rejected,Cecilla Antognelli,Deadline for a project
+7911286566,1492614815,Renelle Penticoot,4/30/2022,3:50 PM,6:52 PM,7.76,rejected,Krista Von Welldun,Last-minute travel
+0726748145,1315952475,Roseanne Wigley,5/18/2022,9:16 PM,11:16 PM,2.81,rejected,Matt Jelley,Family emergency
+6287518790,0360250920,Corey Fontell,8/23/2022,1:37 AM,11:57 PM,1.15,approved,Alejandrina Coggon,Unforeseen medical appointment
+3155082038,4487790700,Ivie Purrington,10/10/2022,11:04 AM,1:38 PM,7.21,pending,Kaile Gainsborough,Unforeseen medical appointment
+8287075203,4436845931,Hube Nalder,1/13/2022,11:19 AM,5:23 AM,7.94,approved,Merv Teligin,Family emergency
+1935148346,1157986145,Coop Graves,7/16/2022,6:14 AM,12:26 PM,7.59,rejected,Shawnee Shapero,Important meeting
+6368218932,1404599851,Peter Impey,12/10/2022,6:37 AM,7:12 PM,8.16,rejected,August Erangey,Overtime at another job
+2745725319,7261035270,Ninette Heathcoat,8/15/2022,12:07 PM,11:05 PM,6.94,approved,Bill Yapp,Vacation plans
+1058333836,1535130024,Loren McWhorter,1/16/2022,11:19 AM,10:23 AM,4.07,pending,Miguel Pedri,Religious observance
+0908304390,0173091873,Ronnie Rummery,4/22/2022,8:53 PM,5:06 AM,9.51,pending,Wilmar Hanmore,Overtime at another job
+0390805343,0959224866,Hedwiga McRannell,3/30/2022,12:00 PM,8:45 PM,2.44,rejected,Erwin Barnet,Important meeting
+5922315692,2912116333,Marwin Beaman,8/1/2022,1:36 AM,10:04 AM,8.44,rejected,Lin Staterfield,Scheduling error
+5796588524,2391938918,Lottie Phittiplace,4/22/2022,8:30 PM,7:34 AM,6.68,approved,Nara Realff,Unforeseen medical appointment
+4692385456,0352621362,Rance O'Feeney,10/12/2022,5:42 AM,3:51 AM,4.83,approved,Dewie Cockill,Childcare responsibilities
+5138160109,0165506016,Ayn Niblock,12/20/2022,1:17 AM,5:04 PM,3.73,rejected,Freddy Walklate,Doctor's orders
+0629261792,8106970620,Emile Parlett,6/21/2022,5:14 PM,3:53 PM,5.61,rejected,Brad McCarlie,Unforeseen medical appointment
+8667792772,9791407037,Aura Keaton,12/15/2022,9:24 AM,4:31 PM,10.13,rejected,Luke Pitkeathly,Vacation plans
+0206538685,3317275901,Bobbie Crannell,11/10/2022,8:16 AM,11:25 PM,10.5,rejected,Dixie Ferrucci,Unexpected car breakdown
+1978886942,3000692282,Marrissa Allport,3/13/2022,9:15 PM,5:23 PM,8.68,approved,Winslow Skotcher,Doctor's orders
+5719178406,6218893480,Brandy Hallut,11/26/2022,11:09 AM,9:05 PM,8.6,approved,Ariela Orkney,Late shift at current job
+1670726975,4432347511,Adena Gilley,12/25/2022,8:46 PM,10:02 PM,5.6,pending,Vivia Candey,Religious observance
+6894393257,2243908050,Idaline Galiford,2/25/2022,12:44 PM,7:54 PM,3.36,rejected,Katerina Emer,Celebratory occasion
+6821910170,6271501753,Noll Santon,8/4/2022,8:24 AM,1:34 AM,2.75,approved,Wanda Sawell,Childcare responsibilities
+6158951064,9641397036,Birgit Camolli,2/22/2022,1:13 PM,3:47 AM,3.48,rejected,Brnaby Filippo,Childcare responsibilities
+0978241312,0667265368,Sig Metson,3/10/2022,10:39 AM,4:38 AM,2.51,approved,Holden Ainley,Overtime at another job
+8621121158,7092819717,Jessalyn Sedgwick,3/28/2022,4:53 AM,11:16 PM,2.11,pending,Yoshiko Tessyman,Deadline for a project
+3514724954,6846860037,Truda Mollin,8/25/2022,8:33 PM,9:40 AM,5.97,approved,Avrom Moralee,Unexpected car breakdown
+5926405661,7427300602,Inigo McGaraghan,2/28/2022,1:35 AM,4:42 AM,9.62,approved,Jarret Cheeney,Emergency home repair
+1344616941,3213837199,Daven Meany,10/27/2022,1:09 AM,11:46 PM,10.67,approved,Wrennie Ert,Last-minute travel
+0867550384,9603396079,Pierrette Ambrogelli,8/7/2022,3:12 AM,6:43 PM,1.95,pending,Baxter Cridlon,Family emergency
+0906587174,3391810165,Adah Darque,11/4/2022,1:15 AM,7:16 PM,11.62,pending,Kittie Castillou,Religious observance
+0191723142,2117577083,Wright Brennan,10/1/2022,3:30 AM,8:15 AM,7.1,pending,Sasha Fancourt,Transportation issues
+8385809902,8238182239,Sidney Ritchman,1/25/2022,9:45 AM,4:39 AM,7.52,approved,Ellary Thinn,Vacation plans
+4575493112,1641805013,Silva Ertelt,11/19/2022,5:45 AM,2:41 AM,6.84,rejected,Liliane Verzey,Overtime at another job
+3534587650,6349151917,Kelbee Sperling,8/15/2022,2:01 PM,3:03 AM,10.83,rejected,Dolly Nayer,Last-minute travel
+1311499601,2384755048,Renie Saunton,9/4/2022,6:03 AM,7:11 AM,8.87,approved,Wiley Arnefield,Attending a special event
+9665468766,1586930001,Melloney Skermer,4/16/2022,12:56 AM,10:34 PM,10.05,approved,Carilyn Patrono,Family emergency
+1659139635,0964117975,Misty Holleran,3/30/2022,2:57 AM,10:50 AM,8.98,pending,Karisa Curnokk,Late shift at current job
+5972499746,2162399075,Micheline Hargey,3/11/2022,2:56 PM,2:19 PM,3.13,rejected,Fawnia Durnell,Shift conflicts with another job
+5689398799,2665194023,Vivyanne Josskowitz,10/13/2022,2:56 PM,4:50 AM,4.2,approved,Sayer Mityushin,Attending a special event
+8240831176,6852801004,Hadrian Gullick,4/21/2022,2:37 AM,1:18 PM,10.57,approved,Jobey Smitheram,Scheduling error
+6991505773,0634353373,Kermy Sandcraft,9/20/2022,3:59 AM,11:48 AM,11.02,approved,Darren FitzGeorge,Shift conflicts with another job
+8585394161,7972763747,Verene Aronovitz,9/10/2022,9:04 AM,4:31 AM,11.83,rejected,Ivette Crosland,Doctor's orders
+6089643505,5273379504,Bonny Reading,7/30/2022,8:17 AM,4:17 AM,1.5,pending,Nan Causon,Shift conflicts with another job
+8366094804,8612290104,Katie Sprankling,5/7/2022,11:02 PM,11:13 AM,9.67,pending,Linette Dunwoody,Last-minute travel
+1139632981,3513986572,Rhona Eltune,4/10/2022,8:46 PM,12:31 PM,5.53,approved,Amanda Dalton,Scheduling error
+1908301139,0505981637,Nancee Coat,3/5/2022,10:59 AM,2:01 PM,3.15,approved,Adolphus Beardwell,Attending a special event
+9272939801,9729094888,Olga O'Nion,4/9/2022,5:31 AM,10:26 AM,7.32,rejected,Ellsworth Klawi,Scheduling error
+4450178106,3954791234,Allissa Westcar,10/7/2022,1:00 PM,7:08 PM,11.2,pending,Jeanna Lukianov,Family emergency
+6477546477,0374805458,Kirstin Ixor,4/1/2022,6:34 AM,3:35 AM,4.64,pending,Orsa MacClay,Religious observance
+3300132142,0690871546,Tarra Wemyss,1/4/2022,12:04 AM,3:30 AM,9.52,approved,Alikee Dorling,Childcare responsibilities
+1449144993,2228690953,Carol Skivington,11/14/2022,9:21 AM,7:25 PM,11.36,pending,Gusti Hansemann,Attending a special event
+2363827317,8355428684,Harriot Patriskson,2/24/2022,12:56 AM,6:33 AM,9.03,approved,Leola Von Gladbach,Important meeting
+7940846523,2406775925,Vi Sedgeworth,9/21/2022,5:06 AM,8:34 AM,7.55,pending,Celinka Tiffany,Last-minute travel
+9261585582,4141683108,Kaine Bushnell,3/26/2022,5:42 AM,6:20 PM,7.98,pending,Burtie Velasquez,Unforeseen medical appointment
+8424182030,7224861340,Rudolf Constantinou,8/3/2022,10:31 PM,4:34 PM,3.76,rejected,Arluene Lamcken,Unforeseen medical appointment
+3780279290,8470588605,Carolann Aylett,7/27/2022,2:23 PM,7:51 AM,3.07,approved,Odelinda Albon,Unforeseen medical appointment
+7216026683,4168857506,Tricia Stockow,7/29/2022,11:28 AM,4:52 PM,11.12,approved,Jocelyne MacSkeagan,Family emergency
+0565350609,5778766556,Francisca Cawthry,3/17/2022,4:09 AM,1:16 AM,8.14,approved,Tremain Stutely,Scheduling error
+0358907055,0389754684,Milissent Boost,5/10/2022,2:42 PM,6:22 PM,11.26,approved,Blancha Calladine,Family emergency
+9766323577,2818848954,Tabby Blakden,2/23/2022,4:46 AM,3:27 AM,6.02,pending,Margeaux Obington,Important meeting
+1232673560,3852423538,Fiorenze McBlain,1/18/2022,4:40 PM,3:58 AM,1.61,pending,Bert Sircombe,Scheduling error
+5375621541,6882487219,Natasha Hacket,5/28/2022,3:48 AM,11:26 PM,1.35,pending,Moll Morit,Deadline for a project
+5809473725,4865009434,Zollie MacGeffen,12/18/2022,12:30 PM,4:04 AM,5.93,approved,Clem Dalgarnowch,Vacation plans
+4751764179,0131544489,Dorie Greenstock,4/19/2022,9:45 PM,3:01 AM,1.93,pending,Cheryl Semeradova,Important meeting
+0589735748,2065541881,Chandal Emsley,5/7/2022,1:25 AM,8:28 PM,9.5,rejected,Omero McGaughay,Personal appointment
+0142908339,5296199626,Melody Wooffitt,1/31/2022,9:17 PM,8:54 AM,1.57,pending,Leyla Gockeler,Scheduling error
+7619147888,4356180313,Clem Grassett,3/8/2022,2:51 AM,5:33 AM,1.08,pending,Angele Lauder,Personal appointment
+7878702403,9356646171,Aldin Astley,12/24/2022,4:07 PM,2:37 PM,1.51,pending,Marna Marte,Deadline for a project
+8515967332,7540337400,Alphard Knowling,12/26/2022,8:16 PM,1:40 PM,6.93,rejected,Janeva Jewar,Emergency home repair
+2949464157,8394267017,Honor Ruste,2/15/2022,3:14 AM,7:37 PM,3.87,rejected,Adrianna McAster,Shift conflicts with another job
+2773205936,3188163681,Louie Fontanet,5/20/2022,3:09 AM,6:51 AM,1.68,approved,Nigel Scipsey,Emergency home repair
+1162011734,6229662566,Carmelia Beddoes,1/16/2022,3:30 AM,2:18 PM,11.6,rejected,Pernell Bowne,Emergency home repair
+5108816219,5688490667,Myles Silveston,11/4/2022,8:01 AM,3:40 PM,4.1,approved,Dena Pennyman,Childcare responsibilities
+0139917772,7276925498,Ronni Champ,2/11/2022,8:52 PM,2:03 PM,4.32,pending,Norby Rabbet,Important meeting
+6063672915,8502398105,Tades McGebenay,6/27/2022,4:31 PM,4:52 AM,11.67,pending,Konstanze Cuff,Illness
+4854452196,5687136576,Franny O'Fielly,7/24/2022,8:58 AM,5:36 PM,4.08,pending,Nonah Emanuelli,Overtime at another job
+2873480955,0087926679,Ashlie Heyfield,6/13/2022,12:43 AM,10:03 PM,5.76,pending,Margaret McDermott,Vacation plans
+9477645311,7313137893,Duane Shopcott,11/11/2022,1:11 PM,1:31 AM,5.26,pending,Eli Dunseith,Deadline for a project
+7593686590,9016765336,Emmie Bancroft,3/8/2022,2:42 PM,11:25 PM,1.1,rejected,Ailbert Bassil,Doctor's orders
+1898381313,4752697866,Shannon Hakking,8/3/2022,7:59 PM,11:38 PM,5.57,pending,Nita Winkell,Attending a special event
+4224971062,9497423381,Valry Wingrove,7/24/2022,3:59 PM,2:18 PM,8.43,pending,Lorianna de Juares,Celebratory occasion
+2280865467,2363621336,Lindy Couch,10/5/2022,3:45 AM,2:41 PM,4.11,rejected,Madel Linforth,Unforeseen medical appointment
+5365228111,5664907142,Janos Ferraretto,6/16/2022,4:07 PM,8:02 AM,6.59,approved,Ellerey Downer,Doctor's orders
+9984472094,0651431956,Ellerey Eagleton,1/5/2022,5:41 AM,11:11 PM,1.6,pending,Bethena di Rocca,Doctor's orders
+0148488064,9748346846,Sancho Golde,2/24/2022,9:30 PM,2:42 AM,3.31,pending,Winifield Waszczykowski,Attending a special event
+1402671407,4276755298,Alene Low,1/5/2022,4:44 AM,9:14 PM,7.93,rejected,Eldredge Boraston,Deadline for a project
+2146956372,6018506564,Toby Minithorpe,12/28/2022,2:37 AM,1:31 AM,6.51,pending,Porter Weighell,Illness
+8427795335,2176556895,Buckie Rathmell,3/10/2022,5:40 PM,2:35 AM,2.46,rejected,Sinclare Bowlesworth,Family emergency
+7952647121,4351726067,Derek Denton,4/16/2022,12:02 PM,4:10 AM,11.79,pending,Claudell Kharchinski,Family emergency
+5341915216,2067194615,Betti Furlonge,12/12/2022,4:02 AM,10:20 AM,11.94,pending,Iver Belchamp,Childcare responsibilities
+4765509788,6497910514,Farrah Coleyshaw,11/13/2022,1:55 AM,11:44 AM,8.66,rejected,Ariel Jennions,Deadline for a project
+3847287451,4750013293,Lennie Solman,2/20/2022,3:03 PM,11:38 PM,3.43,approved,Cherri Jonke,Emergency home repair
+0719730775,1766834426,Arie Axcel,1/15/2022,9:53 AM,7:14 AM,6.45,approved,Fey Hrus,Attending a special event
+3872046977,8459559033,Orrin Boomes,12/26/2022,4:22 PM,6:26 AM,10.63,pending,Maurene Wignall,Deadline for a project
+3449135791,8916855136,Byrann Lilleyman,6/10/2022,11:02 PM,6:33 PM,5.59,rejected,Teddy Whitby,Doctor's orders
+4055585993,3081793904,Linda Grent,1/31/2022,7:33 PM,8:58 AM,11.56,approved,Reg McIlvaney,Important meeting
+7914413674,2424190925,Esme Wigg,10/6/2022,12:10 PM,6:50 AM,3.69,pending,Min Fawthorpe,Childcare responsibilities
+7543924064,3475789485,Manny Ogelbe,1/20/2022,7:31 PM,11:06 AM,1.45,approved,Morse Burgon,Important meeting
+4179731517,6049466645,Morten Flea,12/17/2022,11:17 AM,1:03 AM,10.06,approved,Casandra Blackmuir,Doctor's orders
+2548132560,5643921804,Vachel McNeil,7/28/2022,4:36 AM,11:48 PM,4.36,approved,Basil Mouatt,Religious observance
+6409004044,2109134038,Grenville Sandwick,2/8/2022,1:31 AM,1:29 AM,6.81,pending,Ofelia Booth-Jarvis,Family emergency
+3461570109,3224784237,Jerrilee Danet,12/20/2022,11:08 PM,1:19 PM,3.73,pending,Sandra Novakovic,Scheduling error
+5887130970,1614315094,Alvie Ryam,4/22/2022,9:38 AM,8:06 PM,5.28,pending,Glori Pattisson,Important meeting
+7771129994,0677622732,Goran Iiannone,11/22/2022,8:50 AM,3:18 AM,1.12,approved,Thomasina Eve,Family emergency
+1548310492,5750810410,Gleda Reiling,10/13/2022,7:29 PM,8:55 AM,11.0,pending,Hayden Harnes,Doctor's orders
+3397627362,4047643874,Florri Ibberson,7/30/2022,3:06 PM,6:24 AM,7.22,rejected,Star Ailsbury,Transportation issues
+9442862553,4152355972,Benedikta Hendonson,1/30/2022,12:27 AM,11:07 AM,7.9,rejected,Bunny Blasio,Deadline for a project
+6445184049,3145616919,Eberhard Fairleigh,1/15/2022,12:05 PM,12:44 AM,3.49,approved,Anstice Lowder,Traffic congestion
+5042448551,2858223637,Gaylor Braams,3/19/2022,3:33 AM,3:27 PM,3.02,approved,Julian Telega,Attending a special event
+8604574913,7383507029,Cymbre O'Caine,5/7/2022,1:31 AM,9:14 AM,5.26,pending,Lorinda Trebilcock,Religious observance
+5074866154,7425485966,Phil Skullet,10/17/2022,1:31 AM,2:55 AM,4.3,approved,Arleyne Matthieson,Childcare responsibilities
+4776771950,6849715496,Erick Carme,3/5/2022,5:15 PM,11:57 PM,11.61,approved,Kirsti Brimacombe,Last-minute travel
+1542633214,1061926060,Alissa Chatfield,1/20/2022,1:16 PM,7:53 PM,8.55,approved,Philbert Fardy,Unforeseen medical appointment
+2041289309,5452098275,Gay Hatwell,6/25/2022,8:37 AM,12:03 PM,3.63,pending,Paddie Sproston,Emergency home repair
+3580961373,0834492121,Clemmie Dametti,4/4/2022,1:54 AM,12:18 PM,1.65,pending,Everard Beavors,Traffic congestion
+4616351120,7593760863,Christine Ellse,10/26/2022,5:21 AM,10:37 AM,7.87,pending,Marisa Guidera,Deadline for a project
+9209982371,8379997522,Demott Panichelli,2/22/2022,2:51 PM,10:16 PM,2.93,approved,Ciro Ferney,Childcare responsibilities
+8020436685,7381315718,Jacquenette Wasielewski,10/26/2022,12:29 AM,6:38 PM,5.5,approved,Sayers Boom,Personal appointment
+5176383950,0593145542,Sidonia Gallacher,10/27/2022,8:39 AM,10:06 PM,6.79,approved,Kirsteni De Ruel,Unforeseen medical appointment
+6375225388,1417432144,Georgina Cullerne,8/12/2022,1:32 AM,9:44 PM,4.5,approved,Kasey Christie,Family emergency
+3590386185,6599438164,Jammie Bagshawe,6/23/2022,6:30 AM,6:35 PM,2.69,rejected,Natasha Kaasman,Personal appointment
+1222287064,8368258006,Mahmud Cockland,7/8/2022,10:06 PM,7:51 AM,4.55,approved,Willy Kirton,Deadline for a project
+7989777487,4508125441,Kelwin Thompsett,8/15/2022,6:07 PM,7:09 PM,5.47,approved,Kittie Cheine,Important meeting
+5563389952,9411367488,Aigneis Gogarty,2/24/2022,10:45 AM,12:24 PM,1.88,approved,Claudia Shearstone,Late shift at current job
+7673073986,3503307311,Jenifer Le Grove,6/25/2022,9:24 AM,10:44 PM,10.33,pending,Dayna Belliard,Deadline for a project
+7272167750,9354498507,Oliviero Andreopolos,3/23/2022,3:17 PM,3:54 AM,7.7,approved,Aurelie Stoute,Overtime at another job
+3153411700,8804384573,Maureen Mawson,10/27/2022,11:56 AM,9:01 AM,11.88,rejected,Cully Marquis,Doctor's orders
+2102531600,7125610633,Angil Eastup,2/4/2022,10:42 AM,11:23 PM,11.03,rejected,Camella Fenn,Late shift at current job
+5702982002,7881611642,Chip Bigmore,4/3/2022,8:31 PM,6:39 AM,11.18,rejected,Dyanne Shippam,Illness
+3515672818,3806693269,Lorraine Wilgar,11/7/2022,8:47 AM,5:38 AM,7.19,pending,Cynthea Vaughn,Deadline for a project
+2077100265,2492838803,Brook Heelis,7/17/2022,6:52 AM,11:47 PM,7.86,pending,Iago Jahnel,Celebratory occasion
+2910946347,1098746791,Denyse Carden,9/30/2022,11:01 PM,11:10 AM,9.33,approved,Danila Gohier,Late shift at current job
+6202102942,2959898036,Pierette Dunnet,3/26/2022,8:49 AM,10:12 PM,1.93,approved,Brendis Jumonet,Illness
+4268859276,5186350885,Amos Demetr,6/23/2022,8:51 PM,4:24 AM,8.75,rejected,Justino Jiruca,Doctor's orders
+7757809339,5529794556,Yovonnda Pretty,11/19/2022,4:54 PM,3:05 PM,4.66,pending,Daisie Yanyushkin,Attending a special event
+2836220376,9450438595,Abbye Dumke,3/1/2022,3:30 PM,10:43 AM,9.64,approved,Milly Wulfinger,Important meeting
+4798334855,8078539967,Mordecai Bolzen,1/5/2022,9:03 AM,6:25 AM,10.5,pending,Jobey Mattiassi,Emergency home repair
+8717737133,6817177081,Sasha Swindin,4/4/2022,9:44 AM,4:09 PM,6.1,pending,Arnoldo Arbuckel,Late shift at current job
+6550568498,0847557111,Iris Maude,4/27/2022,11:09 AM,4:07 PM,10.95,rejected,Josey Carnachen,Attending a special event
+8212027686,8943212798,Tammie Folcarelli,1/29/2022,1:09 PM,7:28 AM,8.67,rejected,Andrea Dowber,Unexpected car breakdown
+2639098578,3164833237,Daron Caughey,3/16/2022,3:16 AM,8:46 AM,8.29,pending,Gard Burfield,Overtime at another job
+3858053759,2863451561,Filbert Chenery,9/9/2022,9:44 PM,8:30 PM,10.92,approved,Sherye Rockwill,Overtime at another job
+4346949126,8839857249,Blayne Dodridge,9/15/2022,10:08 AM,12:19 AM,8.22,pending,Markus Corradino,Traffic congestion
+2030911879,4384477236,Rafaelita Overlow,8/31/2022,12:14 AM,8:12 PM,3.09,approved,Isacco Melior,Important meeting
+4109697123,2315804132,Moises Ronchi,2/13/2022,5:29 PM,2:51 AM,8.55,rejected,Douglass Fiddiman,Last-minute travel
+6388598420,1737709570,Kassi Bushel,9/5/2022,4:34 PM,2:09 PM,1.7,approved,Heidie Rooper,Illness
+5760717367,0756545595,Georas Minthorpe,4/27/2022,5:07 AM,12:05 AM,7.78,pending,Olivero Onion,Vacation plans
+9648797196,5119965148,Collete Kovnot,8/29/2022,6:42 PM,5:46 PM,7.04,rejected,Jade Ciardo,Emergency home repair
+4825712991,2606015827,Etty Veschambre,1/7/2022,3:16 AM,5:47 AM,5.01,pending,Clyde Dowyer,Celebratory occasion
+8193956060,9492129221,Wald Parzizek,2/1/2022,4:12 AM,12:52 PM,5.9,pending,Verla Bruckental,Personal appointment
+5063059414,3408702357,Shelley Asche,11/6/2022,11:42 PM,9:03 PM,11.67,approved,Amara Gouldthorp,Illness
+2175043894,4831114693,Robbert Donisi,11/21/2022,11:38 AM,8:38 PM,6.29,pending,Crin Silverman,Late shift at current job
+7162152392,1199272418,Erasmus Furtado,3/24/2022,7:47 PM,10:25 AM,6.73,rejected,Nikolos Nanuccioi,Deadline for a project
+0951749978,4206159548,Daloris Maken,7/22/2022,9:25 PM,12:43 PM,3.99,pending,Katrina Labba,Unexpected car breakdown
+2250130817,4380151123,Timothee Feldfisher,5/8/2022,8:10 AM,8:30 AM,9.82,rejected,Chucho Moxley,Unexpected car breakdown
+2392767165,3151065333,Melinde Guilloud,9/29/2022,1:19 PM,7:23 AM,5.41,pending,Elianora Lennie,Religious observance
+7494543848,1729699553,Stevie Wash,10/8/2022,5:31 AM,9:59 AM,3.01,approved,Clemente Ilden,Celebratory occasion
+8761019364,3761166834,Bonita Murra,2/7/2022,12:52 AM,5:36 AM,4.17,rejected,Gabriella Castello,Celebratory occasion
+6356434023,7219502737,Aldon Lukock,2/16/2022,7:40 AM,11:23 AM,10.09,rejected,Adrianna Clemetts,Late shift at current job
+1255329246,0785839321,Micki Braban,4/6/2022,4:37 PM,6:33 AM,1.16,approved,Vitia Pawlyn,Unforeseen medical appointment
+0026835452,4336669791,Seymour Teanby,9/14/2022,10:23 PM,3:29 AM,6.3,rejected,Wallis Kingsnoad,Vacation plans
+4329355655,8998731185,Gauthier Gilston,12/3/2022,2:33 AM,8:19 PM,5.05,rejected,Ardeen Kupisz,Unexpected car breakdown
+0892318031,4180706520,Tad Craw,12/4/2022,8:37 PM,3:06 AM,10.9,pending,Doreen Halsall,Religious observance
+4626442668,6862274252,Babette Darlasson,6/27/2022,2:22 PM,5:14 AM,6.54,rejected,Vin Heazel,Unexpected car breakdown
+2051961735,9058674665,Bartholomeus Chawkley,9/18/2022,12:42 AM,10:26 PM,3.12,rejected,Elsi Tipper,Emergency home repair
+1008305405,9487145486,Fidela Pinar,6/19/2022,6:19 AM,2:08 PM,5.59,pending,Garret Lissemore,Unexpected car breakdown
+8334075227,2959330390,Ulises Cawthry,7/6/2022,4:06 AM,1:56 PM,2.32,rejected,Gipsy Filipov,Shift conflicts with another job
+8190104284,6839350088,Fallon Trowler,6/17/2022,8:26 AM,6:40 PM,8.48,rejected,Jesselyn Brinicombe,Unexpected car breakdown
+4666733930,3858806455,Truda Statton,3/30/2022,10:15 AM,4:47 PM,9.2,rejected,Dolores Edowes,Late shift at current job
+1134264119,0000328375,Ermentrude Hedling,3/12/2022,12:59 AM,12:32 PM,4.15,rejected,Hugues Bittany,Unforeseen medical appointment
+0221115951,3447744200,Beatriz O'Dyvoy,4/22/2022,2:48 PM,5:20 AM,3.53,approved,Ailene Vandenhoff,Doctor's orders
+5400397417,0428049575,Taddeo Flanner,3/24/2022,5:16 AM,9:54 AM,4.03,rejected,Gabey Load,Emergency home repair
+2331882967,6787494114,Melessa Bartrum,9/3/2022,2:52 AM,5:40 PM,5.12,pending,Fredi Treherne,Unforeseen medical appointment
+2025558392,2371956112,Abbie Traylen,12/18/2022,8:30 AM,4:46 AM,6.11,approved,Horton Lambersen,Vacation plans
+0527803758,3692059388,Andee Baldree,11/24/2022,6:34 AM,4:11 AM,11.26,approved,Maurizia Straffon,Emergency home repair
+5750161161,1025538447,Corena Andrew,3/11/2022,4:54 AM,3:30 PM,11.23,pending,Marcos Farress,Overtime at another job
+7151664397,4535951969,Amelina Litchmore,5/6/2022,11:48 PM,6:32 AM,3.68,rejected,Ashil Scarlin,Unexpected car breakdown
+4445156612,4218925232,Neille Berick,10/4/2022,2:20 AM,3:47 PM,7.51,rejected,Evy Pridmore,Attending a special event
+3462587331,0455340633,Dan Bigmore,6/13/2022,11:05 PM,2:02 PM,7.52,approved,Waneta Stenner,Shift conflicts with another job
+3815266351,3036522387,Christoforo Epperson,6/15/2022,11:42 PM,12:12 PM,9.94,rejected,Ernesto Ortega,Childcare responsibilities
+5603419571,0233824219,Farleigh Scargle,10/28/2022,6:52 PM,1:11 PM,8.21,pending,Sherill Lynn,Late shift at current job
+3905286114,4278108915,Edgardo Bonnell,5/1/2022,11:12 PM,5:02 PM,1.71,rejected,Terri Polland,Unforeseen medical appointment
+3710066727,7063592335,Obidiah Iacovelli,1/15/2022,4:47 PM,1:26 PM,7.53,rejected,Dewitt Ainsworth,Important meeting
+6503646895,9535611364,Ado Bottini,8/4/2022,7:32 AM,4:27 AM,8.36,pending,Michaeline Leppard,Emergency home repair
+0679047638,8098112489,Fair McCarrell,8/21/2022,5:38 AM,1:01 PM,10.34,rejected,Emmerich Sealove,Family emergency
+5886787763,9043593524,Frederik Navein,12/4/2022,6:32 PM,4:34 AM,7.06,approved,Pavlov Clail,Illness
+3555407902,5107375855,Alyce Hablot,8/4/2022,1:06 PM,6:57 PM,9.02,rejected,Shamus Chisnall,Traffic congestion
+0805983090,8701222937,Bili Lonergan,11/28/2022,1:20 AM,11:21 AM,2.86,approved,Janeen Claiton,Celebratory occasion
+5384764643,5235508084,Waneta McCuaig,11/5/2022,6:08 AM,4:37 PM,2.14,approved,Daisie Stear,Family emergency
+4709341117,7132924656,Brandi Simonazzi,1/17/2022,7:38 PM,12:33 PM,5.15,approved,Gabby Barford,Last-minute travel
+9788185002,7971974809,Babb Harefoot,8/2/2022,11:17 PM,3:35 PM,9.33,pending,Henderson McCorley,Late shift at current job
+9861637303,9783265105,Evelyn Leiden,4/28/2022,10:53 PM,10:36 AM,8.65,rejected,Anderson D'Elia,Scheduling error
+2081752905,2491950995,Lavinie Crambie,4/25/2022,5:59 PM,9:55 AM,2.67,rejected,Maxy Pirolini,Doctor's orders
+6827543714,6399896266,Stanford Grime,3/6/2022,3:24 PM,6:44 PM,11.08,approved,Brannon Mingard,Traffic congestion
+6780317101,5728830692,Garnette Annis,10/2/2022,7:25 AM,3:54 AM,5.66,rejected,Christina Wilfing,Late shift at current job
+5348317225,0005963397,Khalil Capey,5/14/2022,2:26 AM,2:07 AM,10.29,rejected,Tersina Fosbraey,Scheduling error
+1940027039,8910744308,Brooke Godsmark,1/13/2022,1:11 AM,10:10 PM,11.22,approved,Berky Tromans,Vacation plans
+3338658524,2995950344,Marin Boston,8/17/2022,2:34 AM,6:36 AM,2.24,rejected,Marlo Fairbrother,Attending a special event
+1430338229,0444500855,Evan Abel,2/13/2022,9:11 AM,8:52 PM,11.23,rejected,Nanete Benninck,Traffic congestion
+4087825736,6728653104,Sayers Lazarus,5/8/2022,2:15 AM,12:00 AM,4.26,rejected,Terra Standley,Doctor's orders
+6389424108,5591081622,Neille Hardison,9/27/2022,2:29 AM,2:00 PM,11.1,rejected,Helga Corwood,Shift conflicts with another job
+4200419076,4180253461,Essie Yosselevitch,3/4/2022,5:12 AM,8:53 AM,10.99,approved,Rowland Roget,Scheduling error
+5141468615,0129099066,Inna Kalisch,1/7/2022,5:30 PM,10:10 AM,9.93,pending,Grantham Canacott,Celebratory occasion
+7309550366,6428555948,Bendick Vasyukov,7/18/2022,5:01 AM,12:16 AM,3.19,rejected,Olive Skeath,Last-minute travel
+0647401134,3161835662,Freda Wellstead,3/4/2022,7:39 PM,12:50 AM,7.81,approved,Lorin Burrell,Celebratory occasion
+2628916703,8678031875,Eileen Vescovini,7/15/2022,1:58 PM,6:06 AM,2.35,pending,Constantino Winning,Personal appointment
+1595541047,9152078949,Chadd Rapkins,3/3/2022,10:43 PM,2:05 PM,4.5,approved,Laure Shaxby,Shift conflicts with another job
+9967096527,4752374285,Kerr Higgonet,12/15/2022,9:54 PM,4:24 PM,2.4,pending,Vyky Dornin,Late shift at current job
+8100850380,2734441225,Antoinette MacCallam,7/4/2022,10:16 PM,7:15 AM,5.97,pending,Holly-anne Overington,Unforeseen medical appointment
+0436708027,8373586547,Kirstyn Gerretsen,4/23/2022,7:47 AM,3:19 AM,5.65,approved,Addie Feavers,Last-minute travel
+7502670173,3463501775,Hedda Enric,7/6/2022,9:29 AM,10:20 AM,9.23,approved,Dwain Piggins,Doctor's orders
+5530425747,8159450737,Gratiana Colvie,4/7/2022,2:59 AM,5:18 PM,7.69,approved,Benetta Wegener,Shift conflicts with another job
+7801521358,4956299087,Nathalia Matejic,4/30/2022,4:03 PM,1:46 AM,8.53,rejected,Arron Edgerton,Attending a special event
+9774026292,7747120958,Astra Dyment,3/7/2022,7:56 AM,4:33 AM,9.37,approved,Clarisse Weekes,Traffic congestion
+2687959332,5541680441,Sky Prater,2/2/2022,8:49 PM,10:17 AM,4.79,approved,Arielle Castano,Transportation issues
+6595575736,6808964394,Lona Iles,12/21/2022,10:38 AM,9:17 AM,10.87,pending,Arlyn Vahey,Religious observance
+6426680737,7961221603,Harlene Ruggiero,6/19/2022,11:34 PM,9:09 PM,11.35,approved,Adolf Bagott,Transportation issues
+6256788850,1036346641,Raddie Suddaby,7/8/2022,7:50 PM,6:41 PM,2.39,approved,Marjorie McMakin,Family emergency
+4203371368,1257384783,Edouard Ravel,7/9/2022,1:41 PM,9:34 PM,8.71,approved,Gleda Littlekit,Unexpected car breakdown
+2905895144,7212672238,Rodie Vowden,10/6/2022,11:37 PM,12:57 PM,11.35,pending,Charlean Lowmass,Scheduling error
+3466798337,6903423494,Dannie Kenlin,12/11/2022,9:28 PM,7:28 PM,1.0,pending,Julietta Wheelband,Traffic congestion
+4195176247,6765857028,Vinny Deroche,9/26/2022,2:55 PM,11:52 AM,11.25,rejected,Wilhelmina Titterington,Deadline for a project
+8953702925,3074383054,Suzanna Teresse,6/18/2022,4:31 PM,4:32 PM,10.98,approved,Franz Mumford,Personal appointment
+3135003337,0469213213,Lorant Haswall,1/20/2022,4:15 AM,11:39 PM,4.95,pending,Nara Luparti,Transportation issues
+7675230760,2487346396,Saleem Tether,5/16/2022,11:53 PM,7:44 PM,9.48,approved,Jessa Chessil,Unexpected car breakdown
+3772739679,8761215554,Fee Hainge,5/23/2022,3:49 PM,3:36 PM,6.27,rejected,Ardene Noblet,Shift conflicts with another job
+2918008044,6773259517,Mario Bras,2/5/2022,10:07 AM,9:18 AM,7.03,pending,Ebenezer Bodman,Vacation plans
+4819330357,0329229125,Hilton Thalmann,12/8/2022,3:10 PM,7:08 PM,8.07,pending,Stephan McQueen,Shift conflicts with another job
+5052484453,4975687615,Obadiah Cracie,2/5/2022,4:19 PM,8:37 PM,3.9,pending,Addia Ellacott,Doctor's orders
+9172992255,4383995942,Deeann Boomes,3/23/2022,9:40 AM,12:31 AM,1.7,pending,Bobbie Whitebread,Religious observance
+4778801156,4335257864,Sondra Tweedlie,7/17/2022,6:41 AM,12:41 PM,2.07,rejected,Jenifer Pates,Important meeting
+1874012008,5427562842,Bobbette Dunthorn,3/21/2022,12:20 AM,9:15 PM,8.69,approved,Sylvia Sollowaye,Traffic congestion
+6095152291,1007386355,Elsbeth Figge,3/6/2022,8:32 PM,1:21 PM,11.48,pending,Hobie Echallier,Important meeting
+2419193733,3699203638,Sheppard Millward,3/1/2022,1:23 PM,6:30 PM,1.85,rejected,Tania Suddick,Celebratory occasion
+2663976083,8334662238,Osmond Huyge,3/23/2022,10:55 PM,5:44 PM,9.83,rejected,Tulley Gomez,Childcare responsibilities
+7617410336,0711621268,Eyde Ninotti,9/12/2022,12:17 PM,7:12 PM,2.86,pending,Carolan Markie,Scheduling error
+8066633807,5777346960,Fidel Liversley,3/12/2022,8:20 AM,8:57 PM,6.14,approved,Grantham MacGibbon,Unexpected car breakdown
+5205151676,6309134922,Katharine McManamen,4/23/2022,1:43 PM,10:30 PM,10.98,approved,Hy Salatino,Important meeting
+8856788128,5448653650,Kristyn Bummfrey,5/29/2022,9:34 AM,4:26 AM,6.31,rejected,Anabal Wayon,Overtime at another job
+7206049737,4967627099,Philbert Daglish,12/21/2022,2:53 PM,4:23 PM,1.99,approved,Loleta Berrycloth,Scheduling error
+0636897540,1592521584,Pearle Gavrielly,3/26/2022,1:13 PM,10:16 AM,6.4,rejected,Shadow Spadaro,Family emergency
+1791797725,3926571462,Ingmar Paprotny,5/18/2022,9:55 PM,3:59 PM,5.72,approved,Jessica Codrington,Shift conflicts with another job
+6881801777,6718393207,Joann Lefwich,6/14/2022,2:33 PM,12:28 AM,3.45,rejected,Dorthy MacCurlye,Childcare responsibilities
+3847749722,6500100565,Gale Gemnett,6/1/2022,8:36 AM,6:57 PM,5.33,pending,Scott Lipscomb,Scheduling error
+9595038822,8685685605,Kimmy McQuillin,4/11/2022,5:35 AM,12:32 AM,6.81,rejected,Leonidas Horick,Emergency home repair
+4991100402,2457699738,Fenelia Yerrington,11/23/2022,2:29 AM,11:07 AM,9.51,rejected,Rosalyn Covotto,Religious observance
+3183586916,5237170048,Olivier Bumpus,2/26/2022,11:50 PM,6:44 AM,1.06,pending,Darya Calltone,Scheduling error
+4580395956,6176202000,Raina Urridge,10/11/2022,11:54 AM,1:35 AM,6.09,rejected,Richard Mushett,Emergency home repair
+4207435050,9799136172,Alisander Samwaye,10/31/2022,2:54 PM,10:16 AM,7.72,pending,Rosana Kern,Scheduling error
+0060718722,3055633342,Gerald Hayen,7/7/2022,11:04 PM,10:46 AM,7.77,pending,Massimiliano Scrammage,Attending a special event
+6324864073,2878541502,Honoria Ferras,3/15/2022,7:42 PM,7:05 PM,3.34,approved,Leonid Pinchin,Late shift at current job
+1376336839,1279262990,Iain Veazey,1/3/2022,3:04 AM,10:25 PM,1.43,approved,Brice Pidwell,Last-minute travel
+1309802092,3272735852,Bridgette Hembling,1/18/2022,8:40 PM,8:23 AM,1.69,approved,Cosmo Comley,Unexpected car breakdown
+9829975614,7854128871,Worthington Slocom,4/11/2022,6:37 AM,9:49 PM,3.91,rejected,Hernando Le Bosse,Attending a special event
+6598202795,3893620370,Elwyn Sedgemore,4/2/2022,1:00 AM,10:43 AM,3.08,approved,Amandi Govern,Overtime at another job
+0236529498,5910281364,Zacharias Sperling,12/6/2022,8:15 PM,7:34 AM,7.59,rejected,Madalyn Lavielle,Unforeseen medical appointment
+9028205241,5209570673,Yvette Ferrarin,11/4/2022,6:55 AM,12:17 AM,7.73,rejected,Granville Growcott,Vacation plans
+8528076555,3713522952,Jorge Champley,7/24/2022,4:27 PM,12:19 PM,5.0,pending,Dulcea Weatherhead,Shift conflicts with another job
+3762467528,1925189317,Leonidas Demange,8/2/2022,11:21 PM,4:28 AM,2.18,pending,Gray Eldrett,Childcare responsibilities
+8270836117,6236855897,Emmalynn Ackland,7/28/2022,3:03 PM,11:48 PM,2.31,rejected,Cathleen MacClenan,Unforeseen medical appointment
+6246711960,2709844885,Fey Castagnier,6/4/2022,1:03 AM,5:04 AM,6.74,pending,Bria Royal,Emergency home repair
+2605266567,2161761048,Baron McCuis,5/10/2022,9:07 AM,8:10 PM,9.6,rejected,Mercie Gabel,Unexpected car breakdown
+8045223197,5717467672,Dacie Drust,11/15/2022,4:25 PM,8:30 AM,11.76,approved,Corissa Rounce,Doctor's orders
+2714851967,8131878228,Armando Grandisson,7/6/2022,8:29 AM,9:43 AM,4.49,approved,Tabb Astbery,Transportation issues
+9421802357,8033596910,Maynard Vaissiere,8/3/2022,12:13 PM,9:28 AM,1.56,approved,Anthea Denisot,Overtime at another job
+8915491688,3693809798,Egbert Sire,2/5/2022,8:06 AM,11:03 PM,2.68,pending,Mead Macbeth,Emergency home repair
+4470386227,0526926058,Christabella Peaple,11/2/2022,12:51 PM,5:11 PM,10.28,pending,Denny Pollitt,Vacation plans
+7695840033,2901224806,Barbey Vial,10/16/2022,10:10 AM,1:44 PM,9.47,pending,Emerson Pettko,Important meeting
+9488507748,4786819816,Arri Martinovsky,8/12/2022,1:27 AM,8:43 AM,9.8,rejected,Margarette Aslet,Shift conflicts with another job
+0062610643,1235771350,Polly Slader,9/7/2022,8:13 PM,8:57 PM,2.2,approved,Ximenes Fasson,Overtime at another job
+3941263846,6783666050,Alon Gazey,6/10/2022,3:15 PM,4:23 PM,6.32,pending,Bianka Bossons,Personal appointment
+2690372088,9037350526,Benetta Burgwyn,1/2/2022,1:54 AM,10:09 AM,10.93,approved,Theodore Harrold,Scheduling error
+5270383403,3635081817,Inna Waliszewski,9/13/2022,7:46 PM,3:38 PM,6.02,approved,Cayla MacCauley,Religious observance
+1217555269,9213513658,Ruth Martlew,7/26/2022,3:46 AM,9:29 AM,11.94,rejected,Nikkie Jellard,Unforeseen medical appointment
+8257041068,1776215990,Kameko Terbeek,5/15/2022,4:14 PM,9:19 PM,1.22,pending,Stoddard Garfirth,Emergency home repair
+4522687842,6684250417,Gregg Adrian,8/28/2022,12:30 PM,8:02 PM,2.89,rejected,Cindelyn Parley,Childcare responsibilities
+2738664415,4844998137,Corissa Schiell,4/5/2022,9:02 AM,10:39 PM,5.5,rejected,Brenda Klaussen,Unexpected car breakdown
+4684340406,2414840722,Alvin Rhyme,2/24/2022,7:19 PM,7:56 PM,7.08,pending,Elvina Lanphere,Childcare responsibilities
+6082144465,2526522625,Griselda Styles,6/19/2022,5:53 AM,12:39 AM,2.68,rejected,Lenee Punch,Childcare responsibilities
+9446783984,7128320458,Shaun Reyson,4/2/2022,1:35 AM,2:19 PM,1.41,pending,Martie Durrant,Late shift at current job
+0804494088,7293431279,Ambrosi Waddup,12/16/2022,10:32 PM,12:04 PM,6.08,pending,Alistair Dank,Emergency home repair
+5078190082,7921253520,Kai Judkins,8/8/2022,10:00 PM,6:11 PM,11.49,approved,Deb Eckart,Unexpected car breakdown
+0070467544,6054785621,Cristi Zorer,12/29/2022,7:50 PM,10:04 PM,9.22,approved,Shannon Mehew,Traffic congestion
+5961494209,7326838836,Ree Clementson,3/31/2022,11:21 AM,6:36 AM,4.17,rejected,Catrina Blemen,Illness
+6429572161,2318646937,Leontine Vincent,8/14/2022,4:03 PM,12:33 PM,5.13,approved,Daisie Middleditch,Unexpected car breakdown
+5123436421,4302191554,Lewes Glenfield,4/24/2022,2:46 AM,6:12 PM,9.64,pending,Billie Addey,Important meeting
+7497146904,3483999388,Bobbie Giovanni,2/14/2022,12:50 PM,6:44 PM,7.67,pending,Clara Karpfen,Family emergency
+7720278917,7807218762,Hurlee Cookman,6/26/2022,6:08 AM,1:55 PM,2.36,approved,Britt Rosina,Late shift at current job
+5762066126,6842781590,Neddie Cohn,5/22/2022,5:03 AM,8:07 AM,11.98,approved,Patten Demead,Scheduling error
+4357895200,3853748848,Noelani Roglieri,4/9/2022,9:02 AM,8:47 AM,2.33,rejected,Field Wilmore,Unexpected car breakdown
+2706549254,4447659867,Berri Aaronsohn,1/2/2022,6:44 PM,3:00 PM,1.34,approved,Bank McKennan,Traffic congestion
+6791130709,5058711990,Kristen Sesser,9/23/2022,1:59 AM,3:32 AM,8.0,rejected,Eduard Probin,Deadline for a project
+1075524571,3331550299,Moe Olivari,5/25/2022,12:21 AM,6:07 PM,11.36,pending,Shayne Crownshaw,Last-minute travel
+8688737657,4515285262,Kennith Osgarby,11/1/2022,3:53 PM,8:19 PM,9.65,approved,Rossie Bish,Shift conflicts with another job
+4318840883,9575973674,Mommy McConnell,12/10/2022,2:30 PM,10:37 PM,5.76,approved,Yettie Gregory,Vacation plans
+9839224301,4127567015,Teddi Kilminster,6/26/2022,12:14 PM,2:39 AM,1.48,rejected,Neddy Paaso,Doctor's orders
+2098989156,0104136707,Hayden Bradbeer,6/16/2022,11:00 PM,10:21 AM,2.19,approved,Hanny Janca,Doctor's orders
+6525510600,3344149946,Herby Bonnier,11/7/2022,3:08 PM,3:34 PM,3.16,pending,Berenice Minmagh,Last-minute travel
+4522297882,5154466659,Star Fernely,12/16/2022,12:09 PM,5:56 AM,4.68,rejected,Cheslie Hould,Family emergency
+9011727444,1505090415,Marne Franseco,1/29/2022,1:16 PM,7:46 PM,9.34,pending,Theo Punchard,Unforeseen medical appointment
+5943701230,6313221141,Sue Bissett,10/2/2022,1:39 AM,5:37 PM,4.19,approved,Ty Thewles,Celebratory occasion
+0617118493,5074669782,Manya Labet,9/11/2022,5:33 AM,7:36 PM,8.88,rejected,Sandy Bovaird,Transportation issues
+0267711379,2612472584,Caldwell Clarae,11/9/2022,2:38 AM,8:21 AM,4.06,rejected,Maryjo Chad,Unforeseen medical appointment
+8963413705,0851484751,Mari Layborn,7/4/2022,9:47 PM,10:10 PM,3.86,pending,Herbert Hostan,Transportation issues
+3825005755,8086937224,Hyacinth Franzman,11/17/2022,10:51 AM,6:39 AM,10.75,pending,Reynold Scragg,Childcare responsibilities
+6012046251,4070648011,Maxim Adicot,2/6/2022,3:13 AM,12:48 AM,1.51,approved,Tades Jaulmes,Unforeseen medical appointment
+8000862611,8087136977,Felix Dresche,8/6/2022,11:47 AM,8:00 AM,7.58,rejected,Chen Bento,Personal appointment
+1580214932,4514541338,Claudelle Thomas,7/7/2022,2:04 AM,11:41 PM,8.89,rejected,Wright Peaden,Scheduling error
+8666984708,6452733869,Moyra Rushman,9/3/2022,7:33 PM,9:29 AM,5.11,pending,Torrie Baker,Unexpected car breakdown
+6641110710,0335693350,Mildrid Cliss,4/11/2022,5:50 PM,3:52 PM,8.55,pending,Raven Papaccio,Vacation plans
+5403935029,4119851044,Felice Moreinu,1/18/2022,4:37 AM,9:41 AM,8.64,pending,Wilie Jendrys,Religious observance
+7197319692,1257265601,Bonny Vaen,7/23/2022,6:58 PM,8:07 PM,9.32,rejected,Addie Bruni,Traffic congestion
+4921177155,4769208359,Dominik Torra,6/23/2022,5:47 PM,9:34 AM,8.32,rejected,Tadio Tharme,Attending a special event
+6547386872,6238360739,Abbie Joblin,8/28/2022,7:09 PM,10:00 AM,11.41,approved,Adriena Dudding,Important meeting
+9987548288,0423529544,Weber Deare,3/16/2022,1:57 AM,12:05 PM,5.43,rejected,Ethel Batterton,Shift conflicts with another job
+4524804072,5177947165,Benson Mournian,2/22/2022,1:51 PM,4:20 PM,2.92,approved,Godiva Justice,Late shift at current job
+4473026167,3478481589,Artemas MacVagh,1/25/2022,9:43 PM,3:57 PM,7.92,approved,Ichabod Wigg,Important meeting
+3196328147,5980902880,Rik Hadland,4/22/2022,4:14 AM,4:37 PM,1.34,approved,Cleve Carlsson,Unexpected car breakdown
+4148787383,7479004109,Grady Sinyard,1/12/2022,1:35 PM,12:09 PM,2.89,pending,Andrei Aymeric,Shift conflicts with another job
+7253628225,8183703976,Jehu Prettyjohns,8/20/2022,7:41 PM,9:36 PM,8.48,rejected,Ange Strowan,Deadline for a project
+2474812962,9082091305,Athene Vaen,4/10/2022,9:22 PM,12:00 PM,1.06,approved,Goddard Prior,Vacation plans
+4288203325,7093678564,Waverly Willett,5/11/2022,3:12 AM,12:14 AM,5.53,rejected,Benyamin Santon,Important meeting
+4134861993,9990725403,Beale Pifford,12/15/2022,5:08 PM,4:03 AM,4.62,rejected,Karon Le Brun,Personal appointment
+9729521557,4594935788,Cassy Adamovicz,4/12/2022,1:31 PM,4:04 PM,1.33,rejected,Raquel Keave,Traffic congestion
+2581182210,5576814215,Marlane Conachie,4/21/2022,12:11 AM,11:05 AM,4.98,approved,Osmond Iddenden,Important meeting
+2958012018,9300494570,Winfred Manthorpe,6/16/2022,8:26 AM,11:54 AM,3.33,approved,Lizbeth Skippen,Personal appointment
+6109819875,3327516162,Felike Powdrill,12/2/2022,6:25 AM,7:11 AM,2.93,pending,Mirabel Holdin,Last-minute travel
+8383587422,1661044735,Margie Skotcher,8/14/2022,11:40 AM,9:23 PM,7.1,approved,Paten Linch,Emergency home repair
+1636496288,3149454409,Nanci Conahy,9/29/2022,3:32 AM,4:57 PM,6.19,pending,Byrom Ellingford,Childcare responsibilities
+4988541355,9321058044,Grete Wasiel,5/1/2022,11:41 AM,10:08 AM,7.87,approved,Morris Larking,Celebratory occasion
+7622510769,3005356175,Baily Bransom,4/25/2022,3:20 PM,11:40 AM,8.63,approved,Marylee Coners,Celebratory occasion
+2175719162,1140233149,Hans Hamer,2/10/2022,6:17 AM,6:43 PM,1.59,rejected,Blanche Bellhouse,Religious observance
+9280504010,9743262091,Georgy Katte,6/5/2022,9:17 PM,12:33 AM,1.77,rejected,Marla Dolton,Late shift at current job
+9832384885,2979172065,Casey Hobson,6/9/2022,11:25 PM,3:58 PM,11.38,rejected,Zeke Reding,Attending a special event
+9425151172,9564537487,Rhona Walster,8/25/2022,5:16 PM,6:19 AM,10.72,pending,Perren Tregust,Scheduling error
+5904721544,1108377130,Juan Michin,10/19/2022,12:56 PM,11:24 PM,6.05,pending,Thom Crush,Late shift at current job
+3988727857,0338416064,Annmaria Galea,3/3/2022,1:15 PM,10:47 AM,6.97,rejected,Jade Gillham,Unexpected car breakdown
+7506996057,0438160207,Burg Raden,6/19/2022,7:14 AM,12:46 PM,10.9,rejected,Gearard Detoile,Transportation issues
+9049402194,0689914067,Zilvia Ridoutt,7/29/2022,4:34 AM,7:02 AM,2.98,pending,Corene Girodias,Unforeseen medical appointment
+1139248405,5871773680,Evered Klazenga,1/16/2022,12:14 AM,8:08 PM,3.46,pending,Arleen Carlow,Late shift at current job
+0916957918,2095693124,Beilul Dach,1/11/2022,7:39 PM,3:01 PM,9.97,approved,Rodolph Felkin,Scheduling error
+0846767902,1571180966,Waverley Bachmann,2/2/2022,5:06 AM,7:03 PM,9.27,approved,Lynea Cutteridge,Childcare responsibilities
+4144133206,8721791740,Gil Dunkley,9/28/2022,6:29 AM,9:33 AM,7.6,approved,Gram Deaville,Family emergency
+8264984347,6036824726,Fran McKillop,4/2/2022,3:21 PM,12:52 PM,5.94,rejected,Delmar Gomes,Overtime at another job
+9813136855,0885270959,Kristien Hearsey,12/25/2022,10:52 PM,12:31 PM,4.34,approved,Bettina Hocking,Last-minute travel
+8694000156,0087658151,Eamon Heymes,2/26/2022,1:49 PM,9:48 PM,3.03,rejected,Tremain Jarvis,Shift conflicts with another job
+8663969651,8592997240,Ethelyn Maruszewski,5/19/2022,11:30 AM,3:56 PM,1.53,pending,Kissee Sonner,Unforeseen medical appointment
+4647706982,2658373066,Goddart Zannotti,2/26/2022,1:38 AM,10:25 AM,11.67,approved,Betteann MacGovern,Emergency home repair
+3277033112,2408363098,Prescott Lynagh,7/8/2022,10:08 AM,5:30 PM,3.93,rejected,Thelma Jacombs,Scheduling error
+1476217556,0390934496,Reiko Atley,4/18/2022,6:54 AM,7:43 AM,3.07,pending,Nicolai Chelam,Deadline for a project
+7555596342,1070433993,Haywood Perrinchief,7/22/2022,3:26 AM,3:48 AM,3.31,rejected,Lionel McMeeking,Unforeseen medical appointment
+8204225857,2412238898,Ham Gayforth,5/4/2022,12:19 AM,11:26 PM,1.02,rejected,Christa Ruffler,Overtime at another job
+3553825316,5980559019,Briney Chenery,11/10/2022,12:50 AM,8:30 PM,8.84,approved,Earlie Ox,Traffic congestion
+6262393390,9708281557,Roderick Mayer,12/23/2022,1:23 PM,10:03 AM,9.55,approved,Eadmund d'Escoffier,Late shift at current job
+1685014399,5046711745,Tabina Spini,4/23/2022,10:28 PM,3:08 PM,8.54,approved,Zack MacRitchie,Childcare responsibilities
+4026743950,5375018934,Tate Ary,10/18/2022,4:48 AM,5:54 PM,10.82,rejected,Jazmin Clynmans,Vacation plans
+3230876180,5757610298,Cissiee Ridehalgh,4/11/2022,8:45 PM,6:37 PM,11.65,rejected,Kimbra Reichartz,Unexpected car breakdown
+5511409693,3495265392,Addy Heselwood,9/7/2022,10:28 AM,1:47 PM,4.17,pending,Melesa Bedding,Unexpected car breakdown
+9565898084,4392221504,Ab Bedin,12/22/2022,4:46 PM,1:04 AM,1.33,rejected,Netty Oaker,Vacation plans
+3633254498,4804884726,Dael Overnell,9/6/2022,3:03 AM,8:38 AM,11.49,rejected,Elton Chellingworth,Important meeting
+2409264417,1258329328,Dael Heavy,2/28/2022,12:31 PM,7:22 AM,2.84,pending,Nevil Morrice,Religious observance
+2135198331,3719954897,Rudiger Baysting,6/10/2022,5:56 PM,3:38 AM,6.85,approved,Christean Stenning,Late shift at current job
+4447810786,5006454342,Sim Veeler,10/23/2022,3:42 AM,11:29 PM,8.98,pending,Quintina Chimenti,Doctor's orders
+7700382492,3383622800,Dosi Biset,2/28/2022,12:26 AM,4:27 PM,4.68,pending,Berri Matejka,Shift conflicts with another job
+6446570961,4263490592,Lurlene Couvet,5/1/2022,5:32 AM,8:03 PM,10.97,approved,Bernelle Postan,Traffic congestion
+5973282708,8677630309,Aura Guilloneau,1/16/2022,10:58 PM,1:14 PM,5.08,rejected,Thomasa Keddle,Important meeting
+4705376757,7513585938,Larisa Grasser,9/7/2022,10:31 AM,2:49 PM,7.47,pending,Curran Ambroisin,Shift conflicts with another job
+1637447809,8188702994,Emilee Goulbourn,10/30/2022,9:01 AM,11:53 AM,10.41,approved,Haskell Allabarton,Vacation plans
+9369910530,5003267169,Evelyn Syrad,7/26/2022,1:10 AM,3:19 PM,5.7,pending,Tabbatha Hanselmann,Doctor's orders
+5847533276,4626342523,Burl Tortis,12/4/2022,12:17 PM,10:43 AM,3.59,rejected,Moyna Sawford,Unexpected car breakdown
+5989460929,9071993108,Daron Cattermoul,4/30/2022,1:54 PM,10:38 AM,6.38,approved,Lilla Tamlett,Unforeseen medical appointment
+7926500216,6223217048,Augusto Minty,9/23/2022,5:29 AM,5:16 PM,5.09,approved,Dre Le Grove,Illness
+2445904951,3574109733,Kalli Andrick,12/29/2022,10:35 AM,1:54 PM,7.45,pending,Kordula Crighten,Celebratory occasion
+6050718385,3647377651,Maude Truckett,11/26/2022,3:20 AM,11:38 AM,9.9,pending,Yolanthe Utley,Deadline for a project
+5246769054,6877993861,Tye Kemitt,4/2/2022,2:35 AM,6:46 PM,1.11,pending,Ron Cornew,Doctor's orders
+6339748384,3017989267,Benita Huguet,3/31/2022,2:36 AM,3:09 AM,1.6,pending,Elissa Arr,Attending a special event
+8032676384,9281406462,Sissy Kasting,2/14/2022,10:43 AM,5:53 PM,10.12,rejected,Lulita Winstone,Childcare responsibilities
+4174059101,0432805397,Madelle McTeggart,10/17/2022,12:55 PM,6:22 AM,6.49,rejected,Alyse Bonas,Family emergency
+8685474698,8993622094,Ronny Kingsnorth,7/11/2022,2:42 AM,12:03 AM,10.53,rejected,Eran Overel,Overtime at another job
+5440201653,9566374038,Keefe Ruos,2/10/2022,5:57 AM,4:54 PM,10.34,rejected,Dyana Fozard,Childcare responsibilities
+7733283477,4475633346,Rozina Fears,2/19/2022,4:44 AM,1:40 PM,5.18,rejected,Britt Vincent,Emergency home repair
+0224278436,2546291122,Andie Rowthorn,5/27/2022,6:28 PM,1:58 AM,7.43,approved,Florida Jeves,Transportation issues
+9030021373,1342907264,Ardra Klos,2/20/2022,9:09 PM,4:40 PM,2.87,approved,Fancie Leamy,Personal appointment
+3111754731,4619176001,Merrielle Rojahn,4/21/2022,4:36 AM,3:13 PM,10.04,pending,Skell Maddison,Family emergency
+7303541616,4218019185,Karlee Gooddy,8/31/2022,6:27 AM,3:58 AM,6.98,approved,Luelle Gillum,Religious observance
+9006419648,7473552783,Gui Storek,2/28/2022,2:09 PM,11:42 AM,4.08,pending,Donna Milmo,Important meeting
+5300906352,2850116424,Bevan Pimmocke,7/10/2022,7:22 PM,6:49 PM,5.84,rejected,Elliot Bolden,Unforeseen medical appointment
+0397158963,9769268178,Taffy Orrick,7/23/2022,7:42 AM,9:21 PM,5.76,rejected,Olin Hun,Overtime at another job
+0567021955,2788327765,Jacquie Hulatt,6/21/2022,2:29 PM,9:24 AM,3.11,pending,Kris Sherringham,Overtime at another job
+9330948731,1138785520,Ediva Cape,11/22/2022,5:02 AM,3:40 PM,9.68,approved,Pebrook Partner,Illness
+1031576282,7096704116,Ken Vynoll,6/25/2022,6:49 AM,1:04 AM,9.17,rejected,Germain Calderon,Traffic congestion
+1920408134,5721509147,Minda Domnin,2/14/2022,6:18 PM,2:18 AM,6.31,rejected,Jen McGinty,Childcare responsibilities
+5082868802,5252795932,Don Gigg,11/1/2022,8:57 AM,3:04 PM,8.0,approved,Junette Matzaitis,Last-minute travel
+9294432920,2625018933,Karrah Shilstone,5/23/2022,2:00 AM,1:04 AM,2.6,approved,Deck Klas,Overtime at another job
+0534247555,5665804959,Yoko Coppock.,7/29/2022,1:24 PM,8:18 AM,7.83,approved,Dunc Le Hucquet,Unexpected car breakdown
+9759417715,5929722951,Marissa Massow,8/5/2022,2:31 AM,9:06 PM,6.26,rejected,Ruddy Wedmore,Deadline for a project
+8376353845,4268058109,Ira Shelper,8/31/2022,12:41 PM,6:57 AM,6.97,approved,Ninon O'Fergus,Unforeseen medical appointment
+3090651807,5303094618,Olympe Philippon,5/21/2022,6:24 AM,10:57 AM,2.24,rejected,Holmes Grangier,Illness
+3485365076,3591330442,Collette Domingues,2/4/2022,12:49 PM,2:34 PM,3.01,pending,Jenda Pinnere,Unforeseen medical appointment
+9117285291,7566270176,Skipp Alfonso,10/10/2022,1:22 AM,9:20 AM,10.55,pending,Benni Slevin,Unforeseen medical appointment
+2975646941,5283810380,Therese MacFall,6/23/2022,1:24 AM,12:22 AM,2.16,rejected,Rosalyn Dobbyn,Personal appointment
+3122724162,5885499136,Gregg Stutely,7/1/2022,10:49 PM,3:39 PM,5.48,pending,Maribeth Sallis,Scheduling error
+2837887218,0223498971,Minny Donson,4/2/2022,3:12 AM,4:13 PM,11.26,pending,Paola Evitts,Scheduling error
+1420790064,4677713065,Bradford Woodhams,12/25/2022,10:43 AM,1:07 AM,1.53,pending,Marsh Offener,Shift conflicts with another job
+7126821794,9694865808,Leola Prowse,9/28/2022,1:14 AM,4:04 AM,11.28,approved,Betty Biggin,Illness
+9717770905,5781845003,Helene Helix,4/8/2022,8:20 PM,7:07 PM,3.9,approved,Hobart Kynvin,Family emergency
+1458114031,1704558751,Madelena Faldoe,6/30/2022,4:36 AM,9:36 AM,3.14,approved,Emmie Ateridge,Traffic congestion
+5542122779,1438205724,Danika Billie,10/9/2022,2:27 AM,10:51 PM,8.76,pending,Tandie Monni,Illness
+7268173032,2061204430,Bentlee Mion,3/31/2022,9:12 PM,4:32 PM,6.11,approved,Persis Maymand,Unexpected car breakdown
+0696402491,8072486837,Milzie Asbury,9/9/2022,5:02 PM,2:12 AM,5.1,rejected,Alexandro Dugdale,Emergency home repair
+3625906414,5079176695,Dianne Drinkale,5/4/2022,3:07 PM,8:10 AM,7.68,rejected,Tedmund Chadband,Illness
+5311727551,4261317095,Thatch O'Heneghan,12/17/2022,2:14 PM,11:18 AM,6.66,pending,Emmet Cromarty,Celebratory occasion
+4780707447,5513351226,Maxy Bunstone,12/1/2022,12:16 AM,3:16 PM,7.8,pending,Nikaniki Thompsett,Transportation issues
+6071748402,2914875681,Tremaine Hovel,12/5/2022,2:53 AM,12:35 AM,9.96,rejected,Pembroke Pahler,Vacation plans
+8105565056,5016945756,Tracy MacRirie,6/3/2022,12:39 PM,6:37 AM,4.64,pending,Tasha Alleburton,Childcare responsibilities
+9186498053,4808514435,Ashlen Maylott,3/30/2022,7:27 AM,8:12 PM,6.87,approved,Brianne McCrory,Doctor's orders
+9593734422,8812510523,Stefanie Baldoni,11/21/2022,6:35 AM,3:03 PM,1.33,approved,Ivory Brownsmith,Religious observance
+6328075782,1016364660,Nanette Scholes,5/29/2022,12:35 AM,12:28 PM,7.31,pending,Romona Doodney,Illness
+4952425304,9282064964,Vania Kensington,4/9/2022,5:53 AM,7:50 PM,6.48,rejected,Martino Sieur,Important meeting
+7644169326,2634654316,Andie Botterell,9/22/2022,3:26 AM,8:17 PM,7.78,approved,Giselle Corgenvin,Unforeseen medical appointment
+4457227226,6290759752,Kellia Gayle,6/20/2022,12:49 PM,12:28 AM,1.07,rejected,Rosalyn Roll,Family emergency
+7916312506,1887643222,Elsey O'Daly,1/20/2022,8:25 PM,8:30 AM,3.66,pending,Chlo Abbess,Unforeseen medical appointment
+4225900843,8663936850,Janie Illwell,11/29/2022,5:13 PM,2:48 PM,1.87,approved,Kip Cradduck,Last-minute travel
+5387146940,3049451726,Eleanore Pibworth,12/21/2022,2:48 AM,9:58 PM,8.8,approved,Serene Meachan,Religious observance
+4819309234,3853708099,Marris Arnald,4/24/2022,9:07 AM,7:22 AM,9.02,approved,Doug Sudell,Transportation issues
+8857039935,7634582883,Gilly O'Reilly,6/4/2022,7:55 PM,4:50 AM,6.23,rejected,Aristotle Ashenhurst,Shift conflicts with another job
+2657890652,5329008093,Rosamund Marquese,4/1/2022,11:08 AM,10:08 PM,5.43,pending,Nickie Casserley,Personal appointment
+9141938011,1921033797,Herminia Youles,8/27/2022,5:50 PM,12:18 PM,3.75,rejected,Kalli Getty,Shift conflicts with another job
+3361082986,9977809119,Ethelda Frend,2/6/2022,6:13 PM,12:57 PM,6.54,rejected,Timmy Morin,Illness
+2721207385,2657503497,Rosana Fattorini,10/19/2022,4:55 PM,4:57 PM,9.07,approved,Emerson Cotgrove,Unforeseen medical appointment
+1192363450,5678829270,Farrah Grint,10/15/2022,6:09 PM,10:35 AM,3.9,pending,Maible Brugman,Important meeting
+7590185868,6181038981,Christiano Lindhe,3/14/2022,9:16 PM,2:11 AM,5.17,rejected,Jedd Bazylets,Doctor's orders
+4279991642,4493108576,Gloriane Bagby,2/9/2022,4:32 PM,6:02 AM,11.9,approved,Chico Geraldi,Attending a special event
+7939372939,9822600674,Guthrey Fontel,5/5/2022,5:58 PM,5:20 PM,9.72,pending,Cheslie Bigglestone,Overtime at another job
+8246658247,8013841766,Ikey Liston,6/29/2022,9:26 PM,8:24 PM,2.97,rejected,Yoshiko Cowdray,Celebratory occasion
+2875498878,4101608946,Berry Nodin,10/18/2022,10:52 AM,12:12 AM,6.39,rejected,Anestassia Abels,Personal appointment
+5872833865,8772281839,Collen Bradnick,5/3/2022,9:53 PM,9:44 AM,4.12,approved,Penni Alvarado,Important meeting
+5941330162,3563573352,Regine Allington,2/17/2022,3:23 AM,11:39 AM,6.51,approved,Haydon Girardot,Doctor's orders
+3529594857,1524142921,Bria Scallan,1/23/2022,10:24 PM,3:25 PM,5.48,rejected,Cale Bland,Deadline for a project
+1425681166,4222551627,Levi Sinnatt,6/20/2022,7:00 PM,9:36 AM,7.36,approved,Adolphe Kendrick,Attending a special event
+0526266783,1361759410,Reuben Causer,6/2/2022,5:01 AM,11:13 PM,6.38,rejected,Felita Lazarus,Illness
+4203105773,0482951834,Halsey Velez,8/31/2022,1:04 PM,11:53 AM,9.83,rejected,Bette Slott,Illness
+5331381189,1764950496,Malinde Brompton,4/2/2022,2:21 PM,9:42 PM,5.6,rejected,Valdemar Stealfox,Transportation issues
+6252993212,3544883945,Freemon Bonnett,9/3/2022,11:24 AM,4:30 AM,7.53,approved,Rafa Pfaffe,Overtime at another job
+1126388424,0707666066,Malcolm Cuerda,11/9/2022,7:55 PM,6:53 PM,6.4,pending,Leo O' Shea,Childcare responsibilities
+4033923993,0667949402,Lorie Arlott,6/12/2022,11:48 PM,8:47 AM,1.55,rejected,Nana Dominelli,Personal appointment
+2924381452,3057454755,Merle Ungerer,6/8/2022,3:37 PM,12:51 PM,1.04,pending,Gerhardine Lidell,Family emergency
+4621799096,7935497338,Robin Kenton,12/23/2022,2:47 PM,4:22 AM,1.13,pending,Bartlett Frediani,Transportation issues
+7792456420,4785320192,Ingaberg Macieiczyk,3/29/2022,8:49 AM,5:07 AM,8.01,pending,Alfred Minister,Unforeseen medical appointment
+3398956092,8488692196,Chloe Moorton,8/11/2022,11:41 PM,3:33 PM,5.2,rejected,Brocky Jackman,Illness
+4058758651,4827964602,Jordain Slyde,6/28/2022,1:26 AM,4:30 AM,8.39,rejected,Madlen Carabet,Emergency home repair
+7452553241,1700827758,Mariejeanne McDowell,9/23/2022,11:04 AM,6:19 AM,10.19,approved,Darn Igoe,Unexpected car breakdown
+6311456877,3474374354,Bernardina Agiolfinger,3/7/2022,5:12 AM,11:35 AM,3.26,pending,Benny Noone,Personal appointment
+6013604207,5248784123,Boigie Copo,8/21/2022,8:51 AM,10:27 PM,7.25,approved,Jacky Playford,Personal appointment
+3686279940,8193507347,Papagena Livezey,4/6/2022,5:14 PM,3:00 PM,2.08,pending,Kamilah Slot,Emergency home repair
+8956786011,2843680824,Rosamund Mabon,3/31/2022,1:30 PM,4:55 PM,1.1,rejected,Blythe Murden,Transportation issues
+5088322011,6856356978,Eben Roddell,7/10/2022,11:02 PM,10:13 AM,2.98,rejected,Frances Casarili,Last-minute travel
+9221505383,7885567575,Gretchen Penvarne,2/8/2022,5:46 PM,1:12 AM,9.97,approved,Elicia Chansonne,Late shift at current job
+4440509347,1828373168,Shina Stoter,3/23/2022,12:43 AM,6:39 PM,3.08,pending,Anneliese Attridge,Important meeting
+3578392316,2432829832,Boniface Chinge de Hals,7/8/2022,7:26 PM,10:09 AM,6.2,rejected,Karel Weich,Attending a special event
+6422357001,8955958188,Ruy Thewles,12/13/2022,2:11 PM,6:59 AM,11.59,pending,Ameline Shergill,Doctor's orders
+2908276240,1622649354,Merv Creegan,2/14/2022,1:54 PM,10:50 AM,9.77,rejected,Grady Risbridge,Family emergency
+8627366993,8469526243,Berni O'Fihillie,6/9/2022,5:20 PM,10:06 PM,4.39,pending,Tasha Kasperski,Late shift at current job
+9704996551,8390791226,Sylvan Leggat,1/27/2022,4:15 PM,8:45 PM,1.47,approved,Ursuline Dymidowski,Religious observance
+1228189234,0526889063,Isac Glassman,1/8/2022,7:32 PM,8:50 PM,7.4,pending,Beilul Sowman,Shift conflicts with another job
+1070402524,4521681212,Jania Buist,11/11/2022,8:23 AM,12:41 AM,9.33,approved,Bertrando Ollet,Shift conflicts with another job
+0007251505,9854539318,Onida Rochelle,9/30/2022,12:44 AM,1:00 PM,9.71,pending,Chiquia Drain,Attending a special event
+1426104561,6486959665,Kearney Pauncefoot,4/29/2022,8:56 PM,4:37 AM,5.22,rejected,Liane Paine,Traffic congestion
+6678609387,0841117136,Enrika Setchfield,4/1/2022,8:08 AM,12:10 AM,3.4,pending,Hermine Oldcote,Unexpected car breakdown
+3513506023,0484159755,Gaston Skidmore,4/8/2022,8:44 AM,10:07 AM,5.11,pending,Ashil Letixier,Celebratory occasion
+0591382709,8987853691,Skelly Joney,3/28/2022,6:15 PM,12:30 PM,8.69,approved,Willyt Thormann,Illness
+9724320596,5850737537,Inga Dumphrey,1/14/2022,5:42 AM,2:40 AM,8.76,pending,Jone Yeomans,Childcare responsibilities
+3671000759,6234850685,Woodrow Dunford,12/3/2022,10:37 PM,7:31 PM,9.73,pending,Robbie Keavy,Emergency home repair
+8944625204,5074542499,Lynnea Vesty,2/16/2022,11:07 PM,9:02 AM,8.73,rejected,Doll Lafee,Attending a special event
+0554124459,7101693105,Cammi Maylin,9/25/2022,5:16 AM,1:19 AM,9.73,rejected,Shaina Overpool,Childcare responsibilities
+4777982785,7701226818,Dulciana Rankmore,11/25/2022,8:11 AM,4:35 PM,4.66,approved,Drona Jozsa,Last-minute travel
+9707058900,3725198462,Jefferson Cyphus,9/15/2022,10:12 AM,12:38 AM,7.65,pending,Duncan Haworth,Shift conflicts with another job
+8711210974,3089772051,Hammad Hockell,10/14/2022,7:25 AM,4:37 PM,9.96,rejected,Chadwick Fareweather,Unexpected car breakdown
+8291422990,9670260426,Vanya Glavias,12/14/2022,1:53 AM,11:09 PM,8.51,pending,Ashia Waite,Shift conflicts with another job
+6587631711,4622364808,Darnall Wrightim,8/6/2022,5:25 AM,11:22 PM,7.77,pending,Dolley Mattes,Important meeting
+5722601616,6615152983,Tibold Craigs,11/10/2022,12:05 AM,4:21 AM,2.06,pending,Sutherlan Fosdick,Childcare responsibilities
+3904072196,8649622429,Boy Poole,7/19/2022,4:35 AM,4:48 PM,1.57,approved,Jed Swynfen,Transportation issues
+1566475597,0002900939,Sibylle Olenov,7/17/2022,6:24 PM,9:01 AM,7.03,pending,Christyna Jaquiss,Traffic congestion
+2347966030,1493408410,Brenna McSorley,6/6/2022,12:18 PM,6:35 PM,8.45,rejected,Pebrook Lakeman,Religious observance
+5609811341,7857044849,Merwyn Romera,7/4/2022,12:50 PM,12:15 AM,7.25,pending,Magdalena Illing,Unexpected car breakdown
+1615742220,1105695433,Florina Creaney,2/16/2022,3:39 AM,1:35 AM,4.56,rejected,Adolphus Stampe,Emergency home repair
+3875182324,9405579630,Klemens Bernuzzi,2/15/2022,9:12 AM,11:31 PM,2.23,approved,Kandace Coombs,Personal appointment
+6584408671,8566248449,Reine Cyster,5/26/2022,6:51 PM,4:12 PM,6.7,approved,Clerkclaude Hathwood,Transportation issues
+6764703736,0066529344,Bobinette Keymer,10/12/2022,2:08 AM,1:51 PM,7.82,approved,Sheree Bentham,Vacation plans
+5146701326,2893649270,Antoinette Tanser,10/26/2022,8:25 PM,12:12 PM,5.64,approved,Fredrika Arnholtz,Childcare responsibilities
+9216234482,3181909777,Livvyy Garrettson,8/16/2022,12:09 PM,6:39 PM,1.7,approved,Hagan Yanukhin,Doctor's orders
+0772447497,2742000143,Kristian Downing,4/29/2022,8:40 PM,12:01 AM,8.02,approved,Julian Bridgewater,Unforeseen medical appointment
+4263790324,1923935860,Gilberta Shimoni,1/21/2022,12:22 AM,3:08 AM,2.25,rejected,Leesa Tilne,Attending a special event
+7622548812,1722995564,Clemence Liffey,3/10/2022,8:09 AM,7:54 AM,6.82,approved,Murvyn Smillie,Personal appointment
+0178565067,3409032983,Earle Truluck,5/13/2022,2:23 AM,9:50 PM,9.32,approved,Derek Jurasek,Transportation issues
+7920484715,1786895595,Demetra Tather,2/7/2022,12:39 PM,11:54 AM,7.79,pending,Cortie Greatland,Overtime at another job
+3137695597,8860268281,Shanon Hachette,5/29/2022,2:44 PM,4:28 PM,11.89,pending,Roger Reyes,Religious observance
+8185535159,2165814189,Codi Jannequin,8/9/2022,1:00 AM,2:45 AM,11.84,pending,Lewiss Spraggs,Personal appointment
+1836355939,1915605202,Jasmina Clardge,3/10/2022,6:18 PM,3:04 PM,7.5,pending,Wilbur Rumke,Vacation plans
+0625821734,1921029153,Beverlie Royl,10/22/2022,11:54 PM,8:26 PM,9.27,pending,Bebe Nowakowska,Emergency home repair
+7149435416,5118280990,Arnie Borland,6/1/2022,1:39 AM,11:55 PM,11.43,approved,Eugenius Cardnell,Childcare responsibilities
+7223376791,4650575168,Blaine Wilse,6/7/2022,4:11 PM,10:17 AM,7.31,pending,Claudelle Dory,Last-minute travel
+5661581769,5004479216,Leann Ryles,2/20/2022,6:50 PM,1:07 PM,6.44,approved,Lou Feechum,Deadline for a project
+3447823895,8584104321,Lynette Sidgwick,2/7/2022,1:49 AM,8:14 AM,1.32,pending,Roobbie Varfolomeev,Attending a special event
+7418403860,2149066297,Norrie Burt,2/7/2022,4:26 PM,1:22 AM,10.9,pending,Daniella O'Cosgra,Transportation issues
+5670494652,9758031392,Humbert Garford,6/1/2022,12:43 PM,2:23 AM,1.21,rejected,Dorothy Glynn,Late shift at current job
+6040737069,9480967111,Haydon Kobel,4/8/2022,6:14 AM,7:01 AM,3.65,pending,Kamilah Pounsett,Religious observance
+5781164030,8922812567,Fremont de Quesne,4/11/2022,3:26 PM,5:05 AM,5.24,approved,Ashli Clougher,Scheduling error
+5945930016,1744527873,Tarrah Lycett,7/27/2022,11:15 AM,2:43 PM,3.66,approved,Shermie Matthius,Attending a special event
+7302836191,0238434427,Imojean Brandreth,2/8/2022,3:01 PM,8:08 PM,11.22,pending,Maryellen O' Culligan,Personal appointment
+1632746069,8201220269,Arleta Eberz,12/16/2022,9:41 PM,1:17 AM,6.04,rejected,Way Glayzer,Doctor's orders
+7069891482,8580096812,Marysa Langcastle,7/29/2022,2:44 PM,5:13 PM,3.53,approved,Bibbie Ledwich,Scheduling error
+0978482409,5138748459,Brittan Jennrich,3/31/2022,10:24 AM,10:00 AM,3.12,rejected,Marcelia Colvill,Emergency home repair
+7833064297,2198460416,Tana O' Concannon,9/15/2022,5:54 AM,12:31 AM,8.26,rejected,Frederica Pechold,Personal appointment
+1532625774,8433789805,Carola Alyokhin,7/31/2022,11:00 PM,4:51 AM,4.57,approved,Humberto Cockley,Vacation plans
+4285803232,4461791033,Gardy Jakubowicz,7/8/2022,10:40 PM,6:21 PM,5.18,pending,Kial Wrout,Last-minute travel
+9325134446,5610824303,Gertrud Christian,9/3/2022,12:43 AM,6:34 PM,7.58,pending,Stacy Spracklin,Deadline for a project
+5232289225,2222273501,Celeste Naseby,10/28/2022,3:28 AM,8:28 PM,5.95,approved,Darnell Willshear,Late shift at current job
+3314536186,5951786479,Rowan Duer,4/6/2022,11:55 PM,1:51 AM,6.02,pending,Pasquale Haruard,Illness
+0530841584,0328798843,Anatola Geertsen,3/27/2022,8:30 AM,10:14 AM,1.35,approved,Cordi Randell,Personal appointment
+4987595915,9410490936,Mindy Pietzner,12/17/2022,6:48 PM,6:56 PM,2.9,rejected,Otho Drinnan,Illness
+4341359894,9178837715,Alberta McGurk,5/14/2022,9:34 AM,7:46 PM,5.61,rejected,Shoshana Keeting,Unforeseen medical appointment
+5456043785,3047291381,Ashbey Blaszczynski,2/15/2022,6:11 AM,3:32 PM,5.18,approved,Estrellita Bonhomme,Scheduling error
+6735901517,8805106933,Karmen Wyse,4/18/2022,2:34 PM,2:06 AM,7.8,pending,Gregorius Bushby,Personal appointment
+5930053170,9942432396,Wake Tribble,2/20/2022,9:29 PM,1:55 PM,8.84,pending,Deane Doorbar,Important meeting
+2502613892,7815075843,Pate Garstan,7/12/2022,5:40 PM,2:41 AM,5.63,approved,Germain Thamelt,Childcare responsibilities
+2379385068,3258175225,Fowler Tawn,1/3/2022,9:10 AM,9:09 PM,6.56,rejected,Syman Butchard,Religious observance
+1067010203,5805655594,Toddie Castlake,11/11/2022,2:25 AM,2:38 PM,9.6,rejected,Mellie Borsnall,Attending a special event
+1489742786,8023316397,Ambrosi Bird,2/13/2022,2:44 AM,12:47 AM,2.14,rejected,Colene Buchan,Celebratory occasion
+3788279966,0863002846,Halette De Bischof,1/17/2022,1:53 AM,4:25 AM,3.07,approved,Dorie Edon,Transportation issues
+7940828711,9886877332,Dorry Thiolier,1/13/2022,3:21 AM,4:22 AM,8.16,rejected,Maddy Harris,Unforeseen medical appointment
+4593863422,7390018496,Storm Doggerell,8/3/2022,8:16 AM,9:54 AM,10.06,approved,Tomaso Hargreaves,Doctor's orders
+3472279370,5356136498,Hasty Mendes,3/14/2022,2:41 PM,5:53 AM,6.11,rejected,Andrew Warke,Overtime at another job
+8922215763,8922730595,Terry Mauvin,9/18/2022,2:04 PM,3:24 PM,5.16,pending,Bentley Andreu,Personal appointment
+4956343175,5569708537,Dyanne Rock,11/6/2022,4:20 PM,1:20 PM,7.75,approved,Clemmie Dyton,Emergency home repair
+0556166191,5181324886,Rianon Gimber,2/20/2022,5:28 AM,2:57 PM,6.68,approved,Birdie Vidloc,Shift conflicts with another job
+9563261887,4443384987,Muffin Royl,5/10/2022,11:32 AM,6:54 PM,8.69,pending,Stacey Proctor,Illness
+7928406691,7225583387,Krystle Brockelsby,8/11/2022,9:04 AM,11:01 PM,8.68,rejected,Abbye De Andisie,Late shift at current job
+3421300801,9619995732,Diann Hadwick,10/2/2022,3:49 AM,12:12 PM,10.81,approved,Leupold Ramshaw,Shift conflicts with another job
+4391966123,6664441934,Haley Triswell,11/7/2022,5:09 PM,9:56 AM,6.74,rejected,Miran Frankish,Vacation plans
+9149728504,4798448281,Cindee Winny,9/12/2022,10:29 AM,4:29 AM,4.86,rejected,Geordie Vondrach,Childcare responsibilities
+9056657798,9993354694,Lacie Philbrook,9/13/2022,4:55 AM,10:58 AM,4.15,rejected,Felisha Bednell,Childcare responsibilities
+5388002365,0977913236,Walsh Penton,1/13/2022,2:34 AM,6:52 PM,11.61,pending,Becky Macauley,Childcare responsibilities
+6437522712,6480291387,Martie Herche,1/23/2022,4:11 PM,5:31 PM,8.81,pending,Marlane Broadfield,Transportation issues
+4474673077,2432774442,Danette Skylett,7/18/2022,8:36 PM,12:45 AM,8.57,pending,Crysta Carah,Last-minute travel
+3122637626,7151267908,Bessie Quayle,2/1/2022,1:39 AM,10:38 AM,11.61,approved,Wilton Selcraig,Unforeseen medical appointment
+1889365289,3040412418,Candy Wilshin,6/24/2022,12:20 PM,1:13 PM,3.81,rejected,Sybil Rodgier,Last-minute travel
+9289848243,4680306386,Balduin Kerslake,9/12/2022,1:41 AM,1:29 AM,2.42,rejected,Cecilia Del Checolo,Family emergency
+4067842740,2139602153,Hercule Viollet,9/27/2022,7:29 PM,1:30 PM,4.36,rejected,Alano Izkoveski,Unforeseen medical appointment
+4549182598,9888406744,Dew Wreiford,6/8/2022,4:15 AM,12:18 PM,3.6,approved,Heall Doudny,Illness
+8615461740,8675792417,Isac Simnel,3/8/2022,4:25 PM,7:50 PM,5.37,pending,Jamaal McDonogh,Illness
+2335280635,9167483801,Dare Reavey,10/16/2022,1:38 PM,5:08 AM,4.95,rejected,Sunny Guerre,Emergency home repair
+1886264767,4313423613,Pet MacLachlan,3/21/2022,1:09 PM,2:49 AM,1.82,approved,Jordon Wyon,Scheduling error
+4532077044,5563570207,Jaquelin Jellett,8/20/2022,6:35 AM,3:23 PM,1.84,approved,Sella Mawditt,Important meeting
+0284260517,7981061156,Keelby Faust,11/28/2022,7:16 PM,3:57 AM,5.71,rejected,Braden Beevis,Family emergency
+5509478373,4162637903,Royall Jirzik,10/10/2022,5:20 PM,11:03 PM,5.46,rejected,Kellina Baldry,Important meeting
+6216177583,6553853959,Regan Faill,12/15/2022,11:01 AM,5:22 PM,2.03,rejected,Sutherland Beirne,Important meeting
+6259921675,0981687474,Patricia Georg,5/6/2022,8:12 PM,7:47 PM,6.42,approved,Loise Beane,Scheduling error
+4796113800,2600804692,Bibbie Horwell,9/2/2022,12:17 AM,5:43 PM,4.01,approved,Salomone Stuffins,Illness
+6507676586,9534784737,Mackenzie Quantrill,5/3/2022,4:27 AM,6:28 PM,10.76,rejected,Michell Caveill,Traffic congestion
+0574677674,9032339370,Angel Hallworth,4/5/2022,8:07 PM,4:55 PM,8.24,approved,Vinson Gillinghams,Important meeting
+3737569908,6820887647,Deonne Peckitt,12/1/2022,3:16 AM,8:21 PM,11.17,rejected,Foster Twist,Childcare responsibilities
+0092934854,5186972649,Steffi Tanman,3/7/2022,3:11 PM,10:44 AM,9.96,pending,Leia McCaughen,Personal appointment
+8848062075,4310948820,Nikolos Fabri,4/11/2022,3:51 AM,8:01 AM,4.96,pending,Jesse Meeron,Shift conflicts with another job
+7893753943,8990072514,Anet Dugall,11/6/2022,9:57 PM,1:39 AM,8.61,approved,Kitty Aspall,Unexpected car breakdown
+2097776574,5359774347,Carmelle Farey,5/31/2022,6:31 PM,6:32 PM,6.96,pending,Charlie Suerz,Personal appointment
+1437102778,0733910718,Dene Weedon,9/9/2022,2:31 AM,9:19 PM,8.11,rejected,Babbie Newns,Transportation issues
+3914690682,8827244131,Sorcha Folker,8/21/2022,10:47 PM,2:50 AM,10.1,rejected,Christoforo Darwent,Late shift at current job
+6276599042,1412615380,Teressa Artindale,11/27/2022,2:13 PM,5:17 AM,8.45,approved,Ronda Bridel,Celebratory occasion
+6995300890,4118680602,Bayard Bridell,8/9/2022,9:09 AM,4:14 PM,1.11,rejected,Corabelle Styant,Last-minute travel
+1422308499,6613848352,Emlyn Cowles,5/14/2022,2:51 AM,8:00 AM,10.32,rejected,Ingmar McGonigle,Religious observance
+9089571191,4124816103,Lisette Kerfoot,2/6/2022,8:04 AM,12:40 AM,9.45,approved,Lilla MacPhail,Personal appointment
+4508170668,1998554791,Jefferey Krysztofowicz,10/11/2022,1:14 AM,9:17 PM,3.96,approved,Edvard Tolputt,Emergency home repair
+4507782031,2898856320,Nicolai Leifer,2/22/2022,11:37 AM,3:09 PM,11.88,pending,Sigvard Cullon,Important meeting
+8290016492,5144329187,Avery Guerner,6/19/2022,7:47 AM,11:32 AM,2.2,rejected,Katya Kittoe,Unforeseen medical appointment
+8525588393,2537032829,Klaus Berriman,3/27/2022,11:57 PM,7:06 AM,6.99,approved,Jeanelle Shefton,Religious observance
+4494973742,8836704468,Teddy Crawford,7/17/2022,8:21 PM,2:17 PM,10.15,approved,Bronson Bakey,Last-minute travel
+3328136487,7715224197,Ferris Fattore,6/16/2022,11:40 PM,8:56 PM,6.47,approved,Celeste Shovelbottom,Important meeting
+9219561972,5674334196,Delaney Bittlestone,7/19/2022,12:59 AM,6:33 AM,1.33,approved,Kahaleel Barnwall,Religious observance
+1144432618,1107225140,Cynthia Yancey,3/29/2022,11:18 PM,3:33 PM,3.12,pending,Nikki Crick,Important meeting
+6891770602,7338792712,Betta Gerdts,6/1/2022,6:09 AM,9:07 AM,5.3,rejected,Noelyn Dureden,Overtime at another job
+0283804475,0799076317,Leslie Boocock,3/14/2022,12:18 PM,8:13 PM,5.25,pending,Latrena Garritley,Last-minute travel
+3740866667,2103778863,Floris Gilliam,11/7/2022,10:29 PM,6:27 AM,11.75,rejected,Roanne Fillary,Unexpected car breakdown
+3176848226,1935683063,Bibbye Damp,12/5/2022,3:38 PM,1:41 AM,5.64,rejected,Sherri Doxsey,Personal appointment
+7099581422,1449183018,Darelle Borrowman,10/12/2022,12:08 AM,6:57 AM,3.56,rejected,Gussy Farrar,Celebratory occasion
+2714522823,8870054691,Analise Rugge,12/25/2022,6:48 PM,6:15 AM,10.7,rejected,Eustacia Stephen,Unforeseen medical appointment
+8629003979,3919216415,Emmit Daynter,9/28/2022,3:03 PM,12:28 AM,11.21,pending,Ripley Scotchbrook,Last-minute travel
+2656407583,7325233108,Danna Ilem,8/6/2022,5:19 PM,10:28 PM,9.64,pending,Rob Tezure,Last-minute travel
+2492332764,3081192293,Petrina Kitchiner,11/2/2022,4:00 AM,1:54 AM,4.63,pending,Thornton McKeand,Emergency home repair
+6620767893,9785383903,Roseann Turnbull,8/2/2022,1:43 AM,1:10 AM,5.89,approved,Stafani Lettsom,Shift conflicts with another job
+7016675149,7132086502,Alastair Pegden,5/17/2022,9:31 AM,10:04 AM,9.62,rejected,Chandal Henric,Scheduling error
+7272556250,2484051069,Leeann Ilyunin,5/1/2022,8:40 AM,2:19 AM,4.14,approved,Rodrique Kingsworth,Traffic congestion
+5347611049,0368325563,Craggy Berrycloth,5/1/2022,7:06 AM,7:59 PM,1.55,pending,Leia Halvosen,Vacation plans
+6969858227,5767189978,Carlyle Wheatland,10/7/2022,5:31 PM,4:52 PM,11.93,approved,Kati Shaudfurth,Transportation issues
+7713601147,5284497953,Alidia Rhodus,3/20/2022,7:08 AM,11:06 PM,5.05,rejected,Car Seivwright,Unexpected car breakdown
+1008653365,6734982211,Gennie Grayshan,3/12/2022,9:43 AM,4:40 AM,5.86,rejected,Virgil Kealy,Unexpected car breakdown
+1950811484,3867233993,Osmund Danilishin,11/26/2022,9:27 PM,7:31 PM,5.08,rejected,Lesley Penhaleurack,Traffic congestion
+0064712397,2404482947,Mercy Duffield,10/5/2022,12:37 AM,6:20 AM,11.93,approved,Klaus Bartens,Unforeseen medical appointment
+4543881540,3499640015,Jayme Vellden,12/15/2022,4:01 AM,9:47 PM,7.82,pending,Harrie Espine,Unforeseen medical appointment
+7083932158,7707925718,Spike Lidgely,10/25/2022,11:37 PM,11:10 PM,7.75,approved,Levin Ghilardi,Childcare responsibilities
+8182025419,3702600779,Ezra Scutts,2/19/2022,3:11 AM,5:46 PM,9.93,approved,Janis Lubman,Vacation plans
+2280632063,9489112607,Lorinda Hrachovec,5/14/2022,2:01 AM,12:48 PM,9.38,approved,Ariana Bartalin,Unforeseen medical appointment
+1189906007,2136023667,Lindsay Chown,1/3/2022,9:50 PM,4:38 PM,1.34,approved,Lyn Petr,Family emergency
+0024905399,9384801739,Allissa Gleadle,1/20/2022,4:11 PM,10:36 AM,2.74,pending,Kort Becerra,Scheduling error
+4057163212,6773434653,Elka Cleevely,11/23/2022,4:24 PM,8:43 PM,11.58,pending,Barclay Greenrodd,Traffic congestion
+0208302255,3619133689,Hedvig Jeffs,9/12/2022,6:24 PM,2:46 AM,7.22,approved,Kyle Akam,Important meeting
+6403305433,9063447736,Jamey McGuckin,1/21/2022,5:27 PM,1:27 AM,11.44,approved,Edward Worters,Late shift at current job
+9653325817,2951777272,Jammie Lind,4/11/2022,2:03 PM,8:56 AM,1.12,approved,Piotr Duchenne,Scheduling error
+7656935894,1166715167,Lanita O' Mahony,3/16/2022,1:23 PM,9:00 PM,10.15,approved,Claribel Leisk,Celebratory occasion
+6269839564,0235113700,Davy Grzesiewicz,4/10/2022,9:43 AM,11:59 AM,11.29,approved,Rickard Simak,Personal appointment
+5571169257,7311569060,Jaime Whyteman,1/21/2022,10:39 AM,1:19 PM,7.68,rejected,Jobey Smithson,Last-minute travel
+2478161885,1493115456,Lucine Custard,1/13/2022,6:19 AM,6:56 PM,6.47,pending,Garwood Gapp,Transportation issues
+4568836395,2900795060,Dolly Itzhak,12/10/2022,2:00 AM,7:35 AM,1.74,approved,Kahaleel Aizikowitz,Overtime at another job
+0657466379,2722310856,Tanney Hilldrop,3/1/2022,4:36 PM,2:37 AM,1.13,pending,Isacco Fishburn,Illness
+4370292700,6182251131,Warren Castelot,3/26/2022,11:28 PM,8:14 PM,1.86,approved,Lazare Cess,Doctor's orders
+2954396385,0751955175,Bessie Pitrollo,3/14/2022,3:15 AM,10:32 PM,8.48,pending,Otto Beswell,Emergency home repair
+1362405396,4077272378,Jefferson Le Barre,7/14/2022,7:09 PM,12:32 AM,3.49,pending,Matty Banbridge,Shift conflicts with another job
+0793068908,4983612254,Gerladina Twitty,5/17/2022,5:50 PM,5:49 PM,5.13,pending,Agnese Danhel,Deadline for a project
+4129071432,3393101749,Daffie Isacsson,5/8/2022,8:27 PM,6:51 PM,4.62,approved,Alberik Pedrocchi,Transportation issues
+5837937005,7225011561,Adara Le Sieur,7/9/2022,7:42 PM,11:06 PM,4.69,rejected,Tilly Stirtle,Illness
+5861388121,1247849368,Misha Thorogood,8/5/2022,7:00 AM,7:32 AM,4.81,approved,Corrie Colt,Doctor's orders
+1245559737,2486325379,Corny Glassman,2/3/2022,5:00 AM,6:41 AM,10.99,approved,Zacharie Crompton,Late shift at current job
+0452998786,3244550428,Othilie Hucker,12/15/2022,8:16 PM,10:38 AM,8.84,pending,Eberto Lyne,Personal appointment
+5265281290,0031448216,Sheppard Mulligan,6/2/2022,4:50 PM,8:32 AM,5.5,rejected,Lolly Playfoot,Illness
+4860094840,6540168314,Tab Anthoine,12/14/2022,5:05 AM,4:52 PM,4.32,approved,Ramsey Dell Casa,Shift conflicts with another job
+8815569979,3029755231,Lowe Lanahan,6/19/2022,2:52 PM,6:45 PM,11.4,pending,Lana McGonigle,Personal appointment
+4608742205,3141161704,Arden Emanuel,3/12/2022,2:47 AM,1:30 AM,2.85,pending,Ollie Southcomb,Late shift at current job
+4933023964,6425830794,Anderson Roddy,5/30/2022,10:07 AM,12:58 PM,10.73,rejected,Rubia Suffe,Unexpected car breakdown
+6442930203,6192105723,Elsi Forton,8/14/2022,9:22 PM,12:51 PM,8.7,approved,Hewitt Benstead,Late shift at current job
+7229647614,1925183696,Danni Snead,7/17/2022,8:33 PM,1:18 PM,4.05,approved,Curry Dabnor,Scheduling error
+2939865884,6375975131,Bat Jocelyn,6/23/2022,8:41 PM,8:32 AM,1.84,approved,Dreddy Kirtland,Important meeting
+3054869318,4957507945,Aldin Le Ball,5/6/2022,11:43 PM,12:55 PM,11.61,rejected,Thalia Leeman,Late shift at current job
+9071478041,6940394036,Baird Batchellor,7/6/2022,6:57 AM,9:58 AM,9.09,pending,Mariele Knoles,Personal appointment
+3702631720,3762302766,Moreen Hindrich,4/5/2022,1:42 PM,10:51 AM,9.44,rejected,Clarissa Seward,Scheduling error
+8689718753,4031740883,Danica Maber,1/18/2022,7:55 PM,2:37 PM,10.31,pending,Elvira Kinahan,Transportation issues
+3339815437,4913094947,Jeremie Getcliffe,6/13/2022,6:17 PM,11:00 PM,5.09,pending,Davina Maiden,Last-minute travel
+4132742946,2775283985,Madlen Amorine,12/29/2022,9:49 PM,10:46 AM,8.13,pending,Hyman Backshill,Overtime at another job
+5516936322,0097012378,Quill Woodland,1/14/2022,7:37 PM,12:46 PM,1.8,rejected,Roxanna Pearmine,Illness
+7986912626,6138911717,Margaretha Delany,9/20/2022,1:32 AM,12:09 PM,10.8,pending,Luci Shanahan,Transportation issues
+1067520066,2663253944,Rafaelita Mattosoff,11/18/2022,5:38 PM,6:04 AM,4.4,pending,Tremayne Hawkswell,Doctor's orders
+9977239738,1115854496,Ailbert Andrivot,5/22/2022,5:13 PM,4:32 AM,6.13,approved,Boone Dusting,Vacation plans
+8052172500,1817893181,Avril Blesing,3/12/2022,3:24 AM,7:03 AM,2.93,rejected,Sullivan Miquelet,Doctor's orders
+0759742898,2714789110,Tandie MacDearmid,10/29/2022,4:09 AM,4:40 AM,8.6,pending,Sawyere Dower,Unforeseen medical appointment
+7066480058,7561286945,Zorine Dearnaley,3/1/2022,10:22 AM,4:25 AM,10.33,rejected,Philip Vescovini,Vacation plans
+4174586799,1798146185,Lisle Gaskin,8/30/2022,11:20 PM,3:18 AM,5.46,rejected,Faustine Barnewall,Childcare responsibilities
+5128090728,5143288487,Anya Eouzan,6/12/2022,4:48 PM,6:34 PM,8.12,approved,Bondy Gottelier,Traffic congestion
+9410408725,2815846896,Gaelan Trevorrow,7/8/2022,1:18 PM,7:26 AM,1.01,pending,Larry Seer,Scheduling error
+6226330074,0620304499,Lorry Dow,10/9/2022,3:13 PM,4:49 AM,8.96,approved,Sherri Ropert,Scheduling error
+9549185990,5637790744,Laurena Toye,11/17/2022,2:24 AM,7:28 AM,2.17,pending,Flory Gowland,Scheduling error
+0914802402,7297741760,Wye Dunaway,6/27/2022,1:38 AM,5:23 PM,6.55,rejected,Darrell Gun,Attending a special event
+7380893890,0972460292,Nedi Beeck,7/2/2022,12:07 PM,3:15 AM,5.7,approved,Jarib Loche,Emergency home repair
+5241390928,0775725188,Cyndi Balthasar,2/14/2022,12:18 AM,6:50 AM,10.91,approved,Hollyanne Wadman,Late shift at current job
+8456347663,9523744232,Angy Blenkinship,9/5/2022,9:21 PM,12:11 AM,9.54,pending,Haskell Freeborne,Doctor's orders
+0391377671,6216122673,Odette Coners,3/26/2022,3:33 PM,1:39 AM,9.24,rejected,Felicle Humpherston,Transportation issues
+2728418527,5495055853,Brigitte Hritzko,4/16/2022,8:59 AM,5:23 AM,7.71,pending,Lazare Dalliwatr,Vacation plans
+7873659194,3068593506,Odette Peebles,1/17/2022,10:02 PM,5:06 PM,8.03,pending,Marsh Farfull,Deadline for a project
+0825223180,9965874077,Maureene McNess,8/28/2022,6:32 AM,7:58 AM,3.73,approved,Hernando Shovelton,Traffic congestion
+1132301955,3026096830,Stephanus Hoyles,12/20/2022,10:01 PM,1:27 PM,1.01,approved,Garold Vertigan,Attending a special event
+1075459184,4010623861,Max Pitblado,1/25/2022,7:21 PM,5:59 PM,11.68,rejected,Tamiko Bulch,Late shift at current job
+3621896767,2640480189,Rose Fry,6/28/2022,3:11 PM,10:02 AM,9.49,approved,Angelica Neely,Unexpected car breakdown
+3368579576,3829999569,Olin Larkby,11/26/2022,9:49 PM,9:57 AM,11.05,pending,Manny De Mars,Important meeting
+1939381738,9633638658,Priscilla Thomesson,3/21/2022,1:18 AM,8:14 PM,10.97,approved,Graehme Van der Merwe,Overtime at another job
+6125733246,5529461689,Gertrude Laviste,5/27/2022,7:50 PM,1:35 PM,2.35,pending,Vi Brackstone,Deadline for a project
+6889300351,0095212426,Trina Hampe,10/18/2022,6:50 AM,12:02 PM,8.96,pending,Phoebe Room,Personal appointment
+1509253726,6513026881,Corella Persey,12/30/2022,9:55 AM,9:18 PM,2.91,pending,Torrance Gohn,Attending a special event
+9751151325,6389906188,Yankee Woolis,7/3/2022,11:06 AM,4:52 PM,9.72,rejected,Lily Reace,Shift conflicts with another job
+0052915999,5387127555,Ezechiel Le Brun,3/25/2022,7:18 PM,3:43 PM,1.2,approved,Aila Newbold,Scheduling error
+6781473174,3221092075,Bunny Rawkesby,2/22/2022,3:26 PM,2:16 AM,9.85,pending,Lilia Zuppa,Family emergency
+3176795181,6818776817,Shanan Augar,6/10/2022,4:05 AM,6:34 PM,6.52,rejected,Nikita Juszczyk,Illness
+0683288628,0821920383,Dexter Pettyfar,11/28/2022,6:35 PM,12:50 PM,3.98,rejected,Galvan McConnel,Illness
+3531172069,4423841681,Ban Hoyland,4/21/2022,1:00 AM,8:32 AM,10.12,pending,Raimondo Pockey,Important meeting
+6983942892,3068118824,Marris Korejs,9/15/2022,11:01 PM,5:55 AM,5.37,rejected,Boony Murrell,Last-minute travel
+5118835534,2337104532,Shurlocke Nanelli,9/4/2022,2:20 AM,12:43 PM,9.46,approved,Rhea Witham,Unexpected car breakdown
+3557226328,1234694131,Karmen Andrin,6/10/2022,6:30 PM,1:10 AM,3.67,approved,Vin Solland,Late shift at current job
+8786489054,3305296828,Alexia Haldon,1/20/2022,4:53 AM,10:28 AM,4.7,approved,Kristofer Deeney,Important meeting
+0054103045,2363319974,Renaldo Coltart,11/9/2022,12:58 AM,6:40 PM,1.47,rejected,Camilla McPhail,Shift conflicts with another job
+5579662157,2700548434,Nathan Goalby,1/21/2022,12:14 PM,6:02 PM,7.35,rejected,Sandi Plaskett,Last-minute travel
+9519860215,3627214404,Abraham Janny,11/8/2022,4:43 PM,2:22 AM,1.57,rejected,Tabbitha Dudeney,Unforeseen medical appointment
+9789980043,3906532305,Tiffany Bille,7/6/2022,11:08 AM,12:40 AM,11.5,approved,Binky Loadman,Unexpected car breakdown
+7421637044,6272000952,Sheree Spicer,2/12/2022,8:18 PM,5:03 AM,8.56,pending,Bartholomeus Sibborn,Unforeseen medical appointment
+9763247497,0915361663,Elvera Nevins,10/30/2022,12:30 AM,4:44 PM,7.45,rejected,Benny Cowins,Late shift at current job
+6946216792,2461047529,Noel Delcastel,11/17/2022,1:50 AM,12:09 PM,9.4,pending,Constance Macilhench,Important meeting
+3838221028,9462366241,Eveline Cathery,1/7/2022,2:12 AM,5:58 PM,11.41,approved,Barbe Glenny,Religious observance
+2165382998,9831685822,Alice Nowland,12/29/2022,1:22 AM,12:24 PM,11.57,approved,Lethia Penrith,Attending a special event
+0469994479,5170987609,Gabbie Kuzma,2/19/2022,3:04 PM,9:04 PM,6.38,rejected,Karoline Hutchison,Important meeting
+0839571461,4855352527,Quintin Hayto,7/14/2022,9:33 AM,12:48 PM,5.18,pending,Austine Yewdell,Unexpected car breakdown
+9254468622,8822203704,Ermina Ilewicz,8/7/2022,11:17 AM,6:22 PM,10.89,rejected,Vere Exall,Childcare responsibilities
+7459177733,8897961444,Rania Scollick,3/12/2022,10:00 PM,7:13 PM,9.37,pending,Vernice Ferry,Important meeting
+4293194096,8740789292,Sharla Seward,1/17/2022,1:37 AM,8:22 AM,5.16,approved,Karol Mainland,Religious observance
+8029726562,9756068728,Pattie Ducket,1/9/2022,12:28 AM,1:04 AM,5.75,pending,Jennee Panas,Traffic congestion
+8072278479,5891674122,Homere Hailey,11/5/2022,2:40 PM,4:44 AM,1.48,pending,Rodge Feeney,Celebratory occasion
+7932892236,7529081020,Carey Hastler,12/10/2022,2:14 PM,11:34 AM,10.64,approved,Giulia Cardozo,Illness
+8924927442,2189648874,Mallory Manes,2/27/2022,7:23 PM,5:24 PM,5.86,pending,Kelci Gabbotts,Transportation issues
+3532024209,0107882698,Phillipe Pennyman,12/29/2022,11:23 PM,7:59 AM,5.99,rejected,Ethe Tailby,Celebratory occasion
+1216433488,1500941204,Crosby Danielot,3/17/2022,5:42 AM,9:12 AM,11.58,rejected,Marillin Mapplebeck,Vacation plans
+7227677184,3064830104,Con McMurthy,3/28/2022,3:21 AM,4:20 PM,3.6,pending,Sandor MacAnulty,Vacation plans
+0798963034,7297836109,Syman Bicheno,8/27/2022,5:58 PM,4:21 AM,8.8,rejected,Waldo Grigsby,Unexpected car breakdown
+7676086922,8469245007,Cathie Clausewitz,4/25/2022,8:41 AM,7:27 PM,3.69,approved,Enoch Burditt,Religious observance
+2805366867,0236183559,Evelyn Spellard,10/13/2022,2:45 PM,11:52 AM,10.37,approved,Mariam Gyurkovics,Unforeseen medical appointment
+1166459071,4271459720,Fidel Bee,7/1/2022,7:33 PM,1:54 PM,3.69,pending,Sally Sterling,Last-minute travel
+7756937295,3120094145,Missy Houseman,3/11/2022,1:04 PM,11:57 PM,10.48,rejected,Jessie Ducastel,Overtime at another job
+6344779713,0868512818,Deny Brabyn,3/13/2022,3:14 AM,11:05 PM,5.25,rejected,Binnie Payler,Unforeseen medical appointment
+8407149934,0927722372,Reinold Fairholm,8/30/2022,7:02 AM,11:35 AM,8.68,approved,Candy Lumsdaine,Illness
+0958370591,3377446508,Marji Binion,12/9/2022,9:13 AM,6:10 PM,4.76,rejected,Tiphany Hubble,Unforeseen medical appointment
+1694942244,7268237375,Kiri Hallybone,2/17/2022,8:04 PM,3:57 AM,4.89,approved,Adolphus Reightley,Transportation issues
+6317812403,0719860040,Kaine Rouby,9/27/2022,10:49 PM,4:15 AM,3.72,pending,Nanice Egdal,Shift conflicts with another job
+2183426195,1458500675,Niccolo Birtles,5/14/2022,3:43 PM,9:20 PM,7.26,rejected,Dotti Bleeze,Deadline for a project
+2169523332,8118856003,Jillayne Phillipp,4/22/2022,1:22 AM,8:25 PM,10.71,rejected,Tish Ledley,Unforeseen medical appointment
+7941117886,1315633647,Herrick Dobeson,8/9/2022,9:57 PM,8:53 PM,1.4,pending,Sibella Reavey,Family emergency
+1642925454,9470625471,Godfry Jezard,1/10/2022,1:29 PM,7:27 AM,9.63,rejected,Ezmeralda Gerhts,Traffic congestion
+5310170642,7353267739,Kiley Pieterick,5/23/2022,7:42 PM,7:30 AM,9.71,rejected,Janek Markovich,Overtime at another job
+3997380716,6299538252,Emlynne Murty,9/11/2022,2:54 PM,7:27 AM,2.72,pending,Hynda Donaghy,Important meeting
+9106815278,2903685878,Rowen Golsworthy,1/22/2022,10:18 AM,4:19 PM,9.58,pending,Jon Selman,Late shift at current job
+3859284495,2094764060,Udall Stuckford,7/14/2022,6:59 AM,11:11 PM,9.35,rejected,Grannie Hammerstone,Important meeting
+2447268300,3249928186,Jacintha Bramble,4/12/2022,11:06 PM,9:48 PM,4.09,rejected,Renie Sweatman,Illness
+7067373085,7495416696,Drugi Dineen,6/29/2022,3:21 AM,11:26 AM,9.06,rejected,Natale Aiskrigg,Childcare responsibilities
+7143071714,2584877430,Morrie Taylorson,8/14/2022,8:41 AM,5:41 AM,1.24,pending,Ted Ivakhin,Shift conflicts with another job
