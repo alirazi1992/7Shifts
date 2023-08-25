@@ -73,7 +73,21 @@ We analyze the reasons behind shift swapping by creating a bar chart to visualiz
 
 # Employee Satisfaction
 
-To gauge employee satisfaction, we simulated an employee survey to gather feedback on the shift swapping process. While this is a simplified representation, real-world sentiment analysis could provide more accurate satisfaction scores:
+To gauge employee satisfaction, we simulated an employee survey to gather feedback on the shift swapping process. 
+
+
+# Areas for Improvement
+
+We identify areas for improvement by calculating metrics such as the average time taken for shift swap approvals.
+
+
+# Shift Swap Transactions
+
+We maintain an audit log to track all shift swap transactions. This log records details such as employee names, dates, outcomes, and comments for auditing purposes.
+
+# Conclusion
+
+Our analysis of the shift swapping data within the restaurant environment provides valuable insights into employee scheduling, satisfaction, and operational efficiency. By understanding the dynamics of shift swaps and the reasons behind them, we can optimize the scheduling process and enhance employee experiences.
 
 
 
